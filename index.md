@@ -1,5 +1,5 @@
 ---
-title: Typhoon Yolanda
+title: Index
 slug: index
 layout: empty
 ---
