@@ -1,4 +1,0 @@
-AuthUserFile /home/code/sites/graphics.dailybruin/yolanda-admin/dev/.htpasswd
-AuthType Basic
-AuthName "Daily Bruin"
-Require valid-user
