@@ -3,13 +3,13 @@
 {% include sidebar.html %}
 
 <div id="main-content">
-    {{ content }}
+    <div class="row">
+        <div class="small-12 columns">
+            {{ content }}
+        </div>
+    </div>
 </div><!-- /main-content -->
 
-    <script src="{{ site.url }}/js/vendor/jquery.js"></script>
-    <script src="{{ site.url }}/js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
+{% include load_js.html %}
 
 {% include footer.html %}

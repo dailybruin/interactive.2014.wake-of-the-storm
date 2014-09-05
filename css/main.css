@@ -5,6 +5,9 @@ p {
 a {
     color: #515791;
 }
+p a {
+    text-decoration: underline;
+}
 a:hover {
     color: #848eed;
 }
@@ -60,7 +63,8 @@ h2 + time {
 #nameplate {
     display: block;
     width: 100%;
-    margin-top: 200px;
+    bottom: 10px;
+    position: absolute;
 }
 #nameplate img {
     display: block;

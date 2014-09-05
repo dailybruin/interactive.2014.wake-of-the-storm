@@ -1,0 +1,4 @@
+AuthUserFile .htpasswd
+AuthType Basic
+AuthName "Daily Bruin"
+Require valid-user
