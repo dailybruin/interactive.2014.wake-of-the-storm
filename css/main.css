@@ -1,4 +1,26 @@
 /* Copyright Daily Bruin 2014 */
+p {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+#main-content {
+    right: 0;
+    bottom: 0;
+    top: 0;
+    overflow-y: scroll;
+    background-color: #f8f8f8;
+}
+#nameplate {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+#nameplate img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 145px;
+    opacity: 0.5;
+}
 #sidebar {
     width: 220px;
     background-color: #222222;
@@ -7,6 +29,7 @@
     left: 0;
     top: 0;
     bottom: 0;
+    overflow-y: scroll;
 }
 #sidebar nav .nav-item {
     display: block;
