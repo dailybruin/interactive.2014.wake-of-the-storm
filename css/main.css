@@ -1,0 +1,57 @@
+/* Copyright Daily Bruin 2014 */
+#sidebar {
+    width: 220px;
+    background-color: #222222;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+#sidebar nav .nav-item {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    color: #ddd;
+    border-bottom: 1px solid #888;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 1.2px;
+    font-weight: 200;
+}
+#sidebar nav .nav-item:first-child {
+    border-top: 1px solid #888;
+}
+#sidebar nav .nav-item:hover {
+    color: white;
+    background-color: #333;
+}
+#sidebar nav .nav-item.active {
+    background-color: #0ec7f2;
+    color: black;
+    border-bottom-color: #222;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+}
+#sidebar nav .nav-item.active:first-child {
+    border-top: 1px solid #222;
+}
+#sidebar #sidebar-logo {
+    color: white;
+    font-weight: 100;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2.5rem;
+    padding: 20px;
+    margin-bottom: 10px;
+    display: block;
+    text-align: right;
+    line-height: 3rem;
+    text-transform: uppercase;
+}
+#main-content {
+    left: 220px;
+    padding: 10px;
+    position: absolute;
+}

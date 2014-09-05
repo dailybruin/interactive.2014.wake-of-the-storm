@@ -1,8 +1,8 @@
 <div id="sidebar">
     <div id="sidebar-logo">Wake of the Storm</div>
     <nav>
-        <a href="#">Blog</a>
-        <a href="#">About the scholarship</a>
-        <a href="#">Share your story</a>
+        <a class="nav-item{% if page.slug == "blog" %} active{% endif %}" href="#">Blog</a>
+        <a class="nav-item{% if page.slug == "about" %} active{% endif %}" href="#">About the scholarship</a>
+        <a class="nav-item{% if page.slug == "share-your-story" %} active{% endif %}" href="#">Share your story</a>
     </nav>
 </div><!-- /sidebar -->
