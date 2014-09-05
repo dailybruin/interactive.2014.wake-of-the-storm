@@ -2,6 +2,54 @@
 p {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
+a {
+    color: #515791;
+}
+a:hover {
+    color: #848eed;
+}
+a:visited {
+    color: #917251;
+}
+h2 {
+    font-size: 1.5rem;
+    font-family: Georgia;
+    font-weight: bold;
+    border-bottom: 1px solid #dbdbdb;
+}
+h1 {
+    color: #515791;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-weight: 200;
+    letter-spacing: 2px;
+    font-size: 2rem;
+}
+time {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+    opacity: 0.8;
+}
+h2 + time {
+    top: -7px;
+    position: relative;
+}
+.breadcrumb {
+    margin-bottom: 20px;
+    display: block;
+}
+.subhead {
+    text-align: center;
+    display: block;
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
 #main-content {
     right: 0;
     bottom: 0;
@@ -10,9 +58,9 @@ p {
     background-color: #f8f8f8;
 }
 #nameplate {
-    position: absolute;
-    bottom: 10px;
+    display: block;
     width: 100%;
+    margin-top: 200px;
 }
 #nameplate img {
     display: block;
@@ -52,11 +100,10 @@ p {
     background-color: #333;
 }
 #sidebar nav .nav-item.active {
-    background-color: #0ec7f2;
-    color: black;
+    background-color: #515791;
+    color: white;
     border-bottom-color: #222;
-    font-weight: 800;
-    letter-spacing: 0.5px;
+    margin-top: -1px;
 }
 #sidebar nav .nav-item.active:first-child {
     border-top: 1px solid #222;

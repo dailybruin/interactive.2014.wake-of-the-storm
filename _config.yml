@@ -1,5 +1,5 @@
-name: "Bridget O'Brien project 2014"
-description: "Philippines"
+name: "Wake of the Storm"
+description: "Bridget O'Brien Scholarship 2014"
 
 permalink: pretty
 
@@ -8,3 +8,11 @@ exclude: [README.md]
 # Development settings. Override these in _config_production.yml
 production: false
 url: "http://localhost:4000"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "post" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "blog"
