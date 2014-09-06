@@ -1,0 +1,13 @@
+{% include header.html %}
+
+{% include sidebar.html %}
+
+<div id="main-content">
+    {{ content }}
+</div><!-- /main-content -->
+
+{% include load_js.html %}
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>
+<script src='{{ site.url }}/js/current-location.js'></script>
+
+{% include footer.html %}
