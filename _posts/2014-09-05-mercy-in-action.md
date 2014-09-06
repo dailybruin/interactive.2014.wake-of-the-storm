@@ -26,11 +26,11 @@ image:
 
 To get to the natural birth clinic in Olongapo, we had to take two jeepneys and a trike.
 
-Jeepneys are akin to tiny busses with no doors and are painted bright colors. A lemon yellow jeepney carried us to the local market, where vendors were selling locally grown fruits, just-picked vegetables and freshly caught fish. This was the hub of life under the early morning sun. 
+Jeepneys are akin to tiny busses with no doors and are painted in bright colors. A lemon yellow jeepney carried us to the local market, where vendors were selling just-picked fruits, locally grown vegetables and freshly caught fish. This was the hub of all activity under the early morning sun. 
 
 {% figure_img 2 caption %}
 
-We jumped off the yellow jeepney, and hopped onto a brown one. We weren’t sure where to get off on this route. Several different iterations of the road name had us worried we wouldn’t find the right street. Was it Bennet Road, Bennette Road, or Bennett Road? Our maps and the locals couldn’t agree on a spelling.
+We jumped off the yellow jeepney and hopped onto a brown one. We weren’t sure where to get off on this route. Several different iterations of the road name had us worried we wouldn’t find the right street. Was it Bennet Road, Bennette Road, or Bennett Road? Our maps and the locals couldn’t agree on a spelling.
 
 Unsurprisingly, our worries were wasted because all three variations lead us to the same place. 
 
@@ -44,11 +44,11 @@ The modest facility had three rooms for patients. In one room, five beds were ne
 
 {% figure_img 4 caption %}
 
-Behind a door, the next room served as the birthing room. Above a bed with crisp sheets hung a long piece of cloth to support the weight of laboring mothers during delivery. Medical supplies were housed nearby, and the room had emergency lights to help keep procedures running smoothly in the event of all-too-common power outages. 
+Behind a door, the next room served as the birthing room. Above a bed with crisp sheets hung a long piece of cloth to support the weight of laboring mothers during delivery. Medical supplies were housed nearby and the room had emergency lights to help keep procedures running smoothly in the event of an all-too-common power outage. 
 
 Even when the clinic isn’t facing typhoon winds and rains, the power can go out at a moment’s notice, Penwell said. Before we arrived at the clinic, in fact, the power had been out.
 
-A third room served as a space for routine check-ups, blood pressure readings and heart beat recordings. 
+A third room served as a space for routine check-ups, blood pressure readings and heart rate recordings. 
 
 The staff at the clinic was all smiles and laughs when we met them. Their own children, some of them born at Mercy in Action, played in the courtyard while they waited for school to start in the afternoon. 
 
