@@ -2,6 +2,9 @@
 p {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
+figure {
+    margin: 0;
+}
 a {
     color: #515791;
 }
