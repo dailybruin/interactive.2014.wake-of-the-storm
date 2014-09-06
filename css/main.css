@@ -87,30 +87,64 @@ figcaption, figcaption p {
     opacity: 0.5;
 }
 #sidebar {
-    width: 220px;
+    width: 100%;
     background-color: #222222;
-    height: 100%;
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+#sidebar #sidebar-logo {
+    color: white;
+    font-weight: 100;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: block;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+#sidebar #sidebar-expand {
+    display: block;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    opacity: 0.8;
+    font-weight: 200;
+    font-size: 0.8rem;
+    letter-spacing: 0.2rem;
+    cursor: pointer;
+    background-color: #444;
+}
+#sidebar #sidebar-expand .expand-control {
+    float: right;
+    display: block;
+    transform: rotate(0.75turn);
+    transition: 0.25s transform;
+}
+#sidebar.expanded #sidebar-expand .expand-control {
+    transform: rotate(0.25turn);
+}
+#sidebar nav {
+    display: none;
+}
+#sidebar.expanded nav {
+    display: block;
 }
 #sidebar nav .nav-item {
     display: block;
     width: 100%;
-    padding: 12px;
+    color: white;
+    padding: 7px 10px;
+    display: block;
+    width: 100%;
     color: #ddd;
     border-bottom: 1px solid #888;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 0.8rem;
     text-transform: uppercase;
-    text-align: right;
     letter-spacing: 1.2px;
     font-weight: 200;
-}
-#sidebar nav .nav-item:first-child {
-    border-top: 1px solid #888;
 }
 #sidebar nav .nav-item:hover {
     color: white;
@@ -124,21 +158,4 @@ figcaption, figcaption p {
 }
 #sidebar nav .nav-item.active:first-child {
     border-top: 1px solid #222;
-}
-#sidebar #sidebar-logo {
-    color: white;
-    font-weight: 100;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 2.5rem;
-    padding: 20px;
-    margin-bottom: 10px;
-    display: block;
-    text-align: right;
-    line-height: 3rem;
-    text-transform: uppercase;
-}
-#main-content {
-    left: 220px;
-    padding: 10px;
-    position: absolute;
 }

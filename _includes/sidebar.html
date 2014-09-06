@@ -1,5 +1,9 @@
 <div id="sidebar">
     <a id="sidebar-logo" href="{{ site.url }}">Wake of the Storm</a>
+    <div id="sidebar-expand">
+        Menu
+        <div class="expand-control">&lang;</div>
+    </div>
     <nav>
         <a class="nav-item{% if page.slug == "blog" %} active{% endif %}" href="{{ site.url }}">Blog</a>
         <a class="nav-item{% if page.slug == "share-your-story" %} active{% endif %}" href="{{ site.url }}/share-your-story">Share your story</a>
