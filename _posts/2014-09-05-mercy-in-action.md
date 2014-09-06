@@ -3,7 +3,7 @@ title: "First destination: Mercy in Action"
 layout: blog
 image:
     - url: blog/post2.1.jpg
-      caption: Vicki Penwell, one of the founders of Mercy in Action, recalls some of the few happy memories from the organization's trip to Tacloban to aid in Typhoon Yolanda relief efforts. (Photo by Neil Bedi)
+      caption: Vicki Penwell, one of the founders of Mercy in Action, recalls some of the happy memories from the organization's trip to Tacloban to aid in Typhoon Yolanda relief efforts. (Photo by Neil Bedi)
       alt: Vicki Penwell, one of the founders of Mercy in Action
 
     - url: blog/post2.2.jpg
@@ -26,7 +26,7 @@ image:
 
 To get to the natural birth clinic in Olongapo, we had to take two jeepneys and a trike.
 
-Jeepneys are akin to tiny busses with no doors and are painted in bright colors. A lemon yellow jeepney carried us to the local market, where vendors were selling just-picked fruits, locally grown vegetables and freshly caught fish. This was the hub of all activity under the early morning sun. 
+Jeepneys are akin to tiny busses with no doors and are painted in bright colors. A lemon yellow jeepney carried us to the local market, where vendors were selling just-picked fruits, locally grown vegetables and freshly caught fish. This was the hub of life under the early morning sun. 
 
 {% figure_img 2 caption %}
 
