@@ -40,6 +40,19 @@ h2 + time {
     top: -7px;
     position: relative;
 }
+figcaption {
+    padding-top: 4px;
+    line-height: 1rem;
+}
+figcaption, figcaption p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.9rem;
+}
+.byline.byline-blog {
+    font-style: italic;
+    text-align: right;
+    display: block;
+}
 .breadcrumb {
     margin-bottom: 20px;
     display: block;
