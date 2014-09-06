@@ -120,6 +120,8 @@ figcaption, figcaption p {
     float: right;
     display: block;
     transition: 0.25s transform, 0.25 top;
+    -moz-transition: 0.25s transform, 0.25 top;
+    -webkit-transition: 0.25s transform, 0.25 top;
     width: 0px;
     display: block;
     border: 5px solid transparent;
@@ -128,9 +130,13 @@ figcaption, figcaption p {
     top: 6px;
     left: -4px;
     transform: rotate(0.25turn);
+    -moz-transform: rotate(0.25turn);
+    -webkit-transform: rotate(0.25turn);
 }
 #sidebar.expanded #sidebar-expand .expand-control {
     transform: rotate(0.75turn);
+    -moz-transform: rotate(0.75turn);
+    -webkit-transform: rotate(0.75turn);
     top: 2px;
 }
 #sidebar nav {
