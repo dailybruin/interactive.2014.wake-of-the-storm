@@ -75,6 +75,7 @@ figcaption, figcaption p {
     bottom: 0;
     top: 0;
     overflow-y: scroll;
+     -webkit-overflow-scrolling: touch;
     background-color: #f8f8f8;
     height: 100%
 }
