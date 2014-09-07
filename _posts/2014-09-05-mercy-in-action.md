@@ -1,6 +1,7 @@
 ---
 title: "First Destination: Mercy in Action"
 layout: blog
+featured_image: blog/post2.5.jpg
 image:
     - url: blog/post2.1.jpg
       caption: Vicki Penwell, one of the founders of Mercy in Action, recalls some of the happy memories from the organization's trip to Tacloban to aid in Typhoon Yolanda relief efforts. (Photo by Neil Bedi)

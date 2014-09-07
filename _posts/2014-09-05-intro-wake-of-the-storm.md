@@ -1,7 +1,7 @@
 ---
 title: Wake of the Storm
 layout: blog
-featured_image: blog/post1.1.jpg
+featured_image: blog/post1.2.jpg
 image:
     - url: blog/post1.1.jpg
       caption: Mercy in Action is one of the two nongovernmental organizations we are visiting. (Photo by Neil Bedi)
