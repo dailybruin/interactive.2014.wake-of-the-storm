@@ -18,7 +18,7 @@ For me, a person who gets lost driving from UCLA to Beverly Hills to visit the I
 
 But mostly, I’ve discovered a penchant for finding my way that I never knew I had. Maybe I just wasn’t paying attention in America. 
 
-We found our way through Olongapo on color-coded jeepneys that run on lines in exactly the same way that buses run in the United States. Yellow jeepneys took us to the market. Brown Jeepneys took us to the outskirts of the city. Anytime we had to go somewhere a jeepney line didn’t run, we’d take a trike. 
+We found our way through Olongapo on color-coded jeepneys that run on lines in exactly the same way that buses run in the United States. Yellow jeepneys took us to the market. Brown jeepneys took us to the outskirts of the city. Anytime we had to go somewhere a jeepney line didn’t run, we’d take a trike. 
 
 We only got on a jeepney going in the wrong direction and missed our stop once. 
 
