@@ -1,5 +1,5 @@
 ---
-title: "First destination: Mercy in Action"
+title: "First Destination: Mercy in Action"
 layout: blog
 image:
     - url: blog/post2.1.jpg
