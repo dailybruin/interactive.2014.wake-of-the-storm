@@ -10,5 +10,23 @@
     <link rel="stylesheet" href="{{ site.url }}/css/respond.css" />
     <link href='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.css' rel='stylesheet' />
     <script src="{{ site.url }}/js/vendor/modernizr.js"></script>
+
+    <meta property="fb:app_id" content="269701246422391"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+    <meta property="og:site_name" content="Wake of the Storm"/>
+    <meta property="og:type" content="article"/>
+    <meta property="article:publisher" content="https://www.facebook.com/dailybruin"/>
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}"/>
+    {% endif %}
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}"/>
+    {% endif %}
+    <meta property="og:image" content="{{ site.url }}/assets/images/sm/project-fb-photo.jpg.jpg"/>
+    {% if page.featured_image %}
+    <meta property="og:image" content="{{ site.image_url}}/{{ page.featured_image }}"/>
+    {% endif %}
+    <meta property="og:image" content="{{ site.url }}/assets/images/sm/project-logo.jpg"/>
+    <meta property="og:image" content="{{ site.url }}/assets/images/sm/dailybruin-logo.png"/>
   </head>
   <body>
