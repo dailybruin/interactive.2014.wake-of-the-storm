@@ -74,13 +74,7 @@ figcaption, figcaption p {
     margin-bottom: 20px;
 }
 #main-content {
-    right: 0;
-    bottom: 0;
-    top: 0;
-    overflow-y: scroll;
-     -webkit-overflow-scrolling: touch;
     background-color: #f8f8f8;
-    height: 100%
 }
 #nameplate {
     display: none;

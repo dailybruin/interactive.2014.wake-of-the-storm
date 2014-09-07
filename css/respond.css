@@ -33,6 +33,12 @@
     #main-content {
         left: 220px;
         position: absolute;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        overflow-y: scroll;
+         -webkit-overflow-scrolling: touch;
+        height: 100%
     }
     #sidebar {
         width: 220px;
