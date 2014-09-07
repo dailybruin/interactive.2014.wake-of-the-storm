@@ -40,6 +40,6 @@ Meanwhile, with the extra day we had to stay in Manila, Byron put together a map
 
 Even with the minor hiccups in our travel, the trip has already afforded us some incredible reporting that we never would have been able to get in the United States.
 
-I don’t think I really understood the magnitude of Typhoon Yolanda until I started traveling – with some good luck and some bad – through the Philippines. 
+I don’t think I really understood the magnitude of Typhoon Yolanda until I started traveling — with some good luck and some bad — through the Philippines. 
 
 <span class="byline byline-blog">– Katie Shepherd</span>
