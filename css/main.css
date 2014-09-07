@@ -241,3 +241,22 @@ figcaption, figcaption p {
 .legend-items .legend3:before {
     background-color: #7DC8B0;
 }
+.email-form {
+    margin-bottom: 30px;
+}
+.email-form .instructions {
+    font-size: 0.9em;
+    line-height: 1.2em;
+    color: #666;
+    margin-bottom: 5px;
+    display: block;
+    margin-top: 30px;
+}
+.email-form .small {
+    display: block;
+    font-size: 0.7em;
+    line-height: 1.1em;
+    position: relative;
+    top: -16px;
+    opacity: 0.6;
+}
