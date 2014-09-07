@@ -8,6 +8,9 @@ figure {
 a {
     color: #515791;
 }
+a.button, a:visited.button {
+    color: white;
+}
 p a {
     text-decoration: underline;
 }
