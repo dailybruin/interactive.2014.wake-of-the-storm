@@ -1,7 +1,7 @@
 ---
 title: About the project
 slug: about
-layout: main
+layout: narrow
 ---
 # {{ page.title }}
 
