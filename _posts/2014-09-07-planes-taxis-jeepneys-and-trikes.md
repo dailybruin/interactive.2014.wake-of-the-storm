@@ -2,6 +2,7 @@
 title: Planes, Taxis, Jeepneys, and Trikes
 layout: blog
 featured_image: blog/post3.2.jpg
+description: Traveling around a foreign country can be a little daunting. The public transit system is confusing and intimidating. Even the airports are a little unfamiliar.
 image:
     - url: blog/post3.1.jpg
       caption: A jeepney driver calls out to pedestrians, searching for new passengers. (Photo by Neil Bedi)
