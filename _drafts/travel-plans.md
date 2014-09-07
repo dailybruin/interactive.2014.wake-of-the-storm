@@ -42,4 +42,4 @@ Even with the minor hiccups in our travel, the trip has already afforded us some
 
 I don’t think I really understood the magnitude of Typhoon Yolanda until I started traveling – with some good luck and some bad – through the Philippines. 
 
-<span class="byline byline-blog">—Katie Shepherd</span>
+<span class="byline byline-blog">– Katie Shepherd</span>
