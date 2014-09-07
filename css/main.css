@@ -76,6 +76,13 @@ figcaption, figcaption p {
 #main-content {
     background-color: #f8f8f8;
 }
+#main-content.current-location-wrap {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 88px;
+    left: 0;
+}
 #nameplate {
     display: none;
 }
