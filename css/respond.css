@@ -8,6 +8,11 @@
     figure {
         margin: 10px 40px;
     }
+    #current-location-legend {
+        top: 120px;
+        right: 20px;
+        bottom: auto;
+    }
 } /* min-width 641px, medium screens */
 
 @media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
@@ -52,6 +57,11 @@
     }
     #sidebar #sidebar-expand {
         display: none;
+    }
+    #current-location-legend {
+        top: 30px;
+        right: 30px;
+        bottom: auto;
     }
 } /* min-width 1025px, large screens */
 

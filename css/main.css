@@ -188,16 +188,19 @@ figcaption, figcaption p {
 #current-location-legend {
     display: block;
     position: absolute;
-    top: 120px;
-    right: 20px;
-    background-color: rgba(255, 255, 255, 0.7);
-    padding: 10px;
+    bottom: 10px;
+    right: 10px;
+    background-color: rgba(255, 255, 255, 0.85);
     min-width: 200px;
+    pointer-events: none;
 }
 .legend-title {
     text-align: center;
     font-weight: bold;
     margin-bottom: 17px;
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
 }
 .footer {
     font-family: Georgia, serif;
@@ -206,4 +209,34 @@ figcaption, figcaption p {
     font-size: 0.8rem;
     opacity: 0.7;
     line-height: 1rem;
+}
+.legend-items {
+    list-style: none;
+    margin: 0;
+    padding: 0 10px 10px 10px;
+    margin-top: -7px;
+}
+.legend-items > li {
+    padding-left: 10px;
+}
+.legend-items > li:before {
+    position: relative;
+    left: -10px;
+    top: 5px;
+    content: "";
+    width: 15px;
+    display: block;
+    height: 15px;
+    background-color: #222;
+    border-radius: 50px;
+    float: left;
+}
+.legend-items .legend1:before {
+    background-color: #F76565;
+}
+.legend-items .legend2:before {
+    background-color: #9B88CB;
+}
+.legend-items .legend3:before {
+    background-color: #7DC8B0;
 }
