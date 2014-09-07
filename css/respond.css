@@ -8,11 +8,6 @@
     figure {
         margin: 10px 40px;
     }
-    #current-location-legend {
-        top: 120px;
-        right: 20px;
-        bottom: auto;
-    }
     .subhead {
         width: 80%;
         margin-left: auto;
@@ -20,7 +15,13 @@
     }
 } /* min-width 641px, medium screens */
 
-@media only screen and (min-width: 40.063em) and (max-width: 64em) { } /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+    #current-location-legend {
+        top: 20px;
+        right: 20px;
+        bottom: auto;
+    }
+} /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
 
 /* Large screens */
 @media only screen and (min-width: 64.063em) { 
@@ -29,6 +30,11 @@
         width: 100%;
         bottom: 10px;
         position: absolute;
+    }
+    #current-location-legend {
+        top: 120px;
+        right: 20px;
+        bottom: auto;
     }
     #main-content {
         left: 220px;
@@ -39,6 +45,10 @@
         overflow-y: scroll;
          -webkit-overflow-scrolling: touch;
         height: 100%
+    }
+    #main-content.current-location-wrap {
+        top: 0;
+        left: 220px;
     }
     #sidebar {
         width: 220px;
