@@ -18,7 +18,7 @@ image:
 ---
 Traveling around a foreign country can be a little daunting. 
 
-The public transit system is confusing and intimidating. Even the airports are a little unfamiliar. 
+The public transit system is confusing and intimidating. Even the airports are a bit unfamiliar. 
 
 {% figure_img 1 caption %}
 
