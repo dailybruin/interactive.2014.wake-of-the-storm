@@ -17,6 +17,8 @@ The strongest, most destructive typhoon since storm magnitude has been recorded 
 
 As Typhoon Yolanda (also known as Typhoon Haiyan outside of the Philippines) became a household name, even a world away on our campus, the magnitude of the story unfolding in the Philippines began to reveal itself. 
 
+<!--more-->
+
 {% figure_img 1 caption %}
 
 By January, UCLA students donated a total of $12,000 in conjunction with ASUCLA, and the relief efforts in the ravished country were taking off. UCLA sent nurses to help Filipinos left without adequate health care. Samahang Pilipino adopted a new annual campaign to raise money to send a student to contribute to rebuilding work and support relief efforts.

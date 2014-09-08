@@ -21,10 +21,11 @@ a:visited {
     color: #917251;
 }
 h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-family: Georgia;
     font-weight: bold;
     border-bottom: 1px solid #dbdbdb;
+    margin-top: 15px;
 }
 h1 {
     color: #515791;
@@ -59,6 +60,42 @@ figcaption, figcaption p {
     font-style: italic;
     text-align: right;
     display: block;
+}
+.continue-reading {
+   text-align: right;
+   display: inline-block;
+   text-decoration: none;
+   color: #515791;
+   width: 100%;
+   margin-bottom: 40px;
+}
+.continue-reading a, .continue-reading a:visited {
+   color: #515791;
+}
+.continue-reading a {
+   text-decoration: none;
+   display: inline-block;
+   padding: 10px;
+   background-color: #eee;
+   transition: 0.25s background;
+   -moz-transition: 0.25s background;
+   -webkit-transition: 0.25s background;
+}
+.continue-reading:hover a {
+    background-color: #e9e9e9;
+}
+.entry figcaption > p {
+    font-size: 0.8rem;
+    text-align: right;
+    color: #777;
+}
+.entry.drop-cap > p:first-of-type:first-letter {
+    font-weight: bold;
+    font-size: 3em;
+    float: left;
+    line-height: 1em;
+    display: inline-block;
+    margin-right: 5px;
 }
 .breadcrumb {
     margin-bottom: 20px;

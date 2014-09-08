@@ -29,6 +29,8 @@ To get to the natural birth clinic in Olongapo, we had to take two jeepneys and 
 
 Jeepneys are akin to tiny busses with no doors and are painted in bright colors. A lemon yellow jeepney carried us to the local market, where vendors were selling just-picked fruits, locally grown vegetables and freshly caught fish. This was the hub of life under the early morning sun. 
 
+<!--more-->
+
 {% figure_img 2 caption %}
 
 We jumped off the yellow jeepney and hopped onto a brown one. We weren’t sure where to get off on this route. Several different iterations of the road name had us worried we wouldn’t find the right street. Was it Bennet Road, Bennette Road, or Bennett Road? Our maps and the locals couldn’t agree on a spelling.

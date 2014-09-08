@@ -29,6 +29,14 @@
         margin-left: -16.66667%;
         margin-right: -16.66667%;
     }
+    .entry figcaption {
+        padding-top: 0;
+    }
+    .entry p {
+        font-size: 1.1rem;
+        line-height: 1.7rem;
+        margin-bottom: 1.7rem;
+    }
     #nameplate {
         display: block;
         width: 100%;

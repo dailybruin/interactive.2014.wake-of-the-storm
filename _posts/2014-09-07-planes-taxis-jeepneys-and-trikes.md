@@ -22,6 +22,8 @@ The public transit system is confusing and intimidating. Even the airports are a
 
 {% figure_img 1 caption %}
 
+<!--more-->
+
 For me, a person who gets lost driving from UCLA to Beverly Hills to visit the Ice Cream Lab, getting around with minimal guidance and no Google Maps directions chirping in my ear seemed like the most difficult thing I’d have to do on this trip. 
 
 But mostly, I’ve discovered a penchant for finding my way that I never knew I had. Maybe I just wasn’t paying attention in America. 

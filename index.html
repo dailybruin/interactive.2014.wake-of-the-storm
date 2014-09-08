@@ -17,7 +17,14 @@ layout: narrow
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%B %-d, %Y"}}</time>
             </header>
-            <div class="entry">{{ post.content }}</div>
+            <div class="entry drop-cap">
+            {% if post.content contains '<!--more-->' %}
+              {{ post.content | split:'<!--more-->' | first | remove: "<img>"}}
+              <p class="continue-reading"><a href="{{ post.url }}">Continue reading &rarr;</a></p>
+            {% else %}
+              {{ post.content }}
+            {% endif %}
+            </div>
         {% endfor %}
     </div><!-- /12 -->
 </div><!-- /row -->
