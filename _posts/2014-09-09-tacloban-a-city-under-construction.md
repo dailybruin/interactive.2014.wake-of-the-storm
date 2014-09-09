@@ -9,7 +9,7 @@ image:
       alt: Workers construct permanent housing.
 
     - url: blog/post4.2.jpg
-      caption: Children at one of the temporary housing locations cheered and smile for the camera. (Photo by Neil Bedi)
+      caption: Children at one of the temporary housing locations cheered and smiled for the camera. (Photo by Neil Bedi)
       alt: Children at a temporary housing location.
 
     - url: blog/post4.3.jpg
