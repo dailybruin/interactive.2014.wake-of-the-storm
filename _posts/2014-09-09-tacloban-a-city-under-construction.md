@@ -2,7 +2,7 @@
 title: "Tacloban: A City Under Construction"
 layout: blog
 featured_image: blog/post4.2.jpg
-description: Construction workers were rebuilding buildings at almost every turn, and at all hours of the day. Men worked by lamp light around 9 p.m. in Tacloban City on a Sunday.
+description: Construction workers were reconstructing buildings at almost every turn, and at all hours of the day. Men worked by lamp light around 9 p.m. on a Sunday in Tacloban City.
 image:
     - url: blog/post4.1.jpg
       caption: Workers construct permanent housing for displaced victims of Typhoon Yolanda. Many workers are displaced victims themselves, putting in required hours to obtain housing. (Photo by Neil Bedi)
@@ -13,7 +13,7 @@ image:
       alt: Children at a temporary housing location.
 
     - url: blog/post4.3.jpg
-      caption: Cecilia Jimenez, an attorney working with the Commission of Human Rights, and Keneath Bolisay, an external relations associate with the UNHCR, focus on providing advocacy and services for refugees of Typhoon Yolanda. (Photo by Neil Bedi)
+      caption: Cecilia Jimenez, an attorney working with the Commission of Human Rights, and Keneath Bolisay, an external relations associate with the UNHCR, focus on providing advocacy and other services for refugees of Typhoon Yolanda. (Photo by Neil Bedi)
       alt: Cecilia Jimenez
 ---
 Construction workers were rebuilding buildings at almost every turn, and at all hours of the day. Men worked by lamp light around 9 p.m. in Tacloban City on a Sunday.
@@ -26,11 +26,11 @@ The United Nations Refugee Agency, known by the acronym UNHCR, provided core rel
 
 <!--more-->
 
-The first was a group of bamboo temporary homes. The second was a development where displaced people would be able to eventually obtain permanent housing. Only 50 of the hundreds of planned units were finished and ready for families to move in.
+The first was a group of temporary bamboo homes. The second was a development project where displaced people would be able to eventually obtain permanent housing. Only 50 of the hundreds of planned units were finished and ready for families to move in.
 
-The third location was a part of the city nestled right against the ocean’s shore. Large ‘No Build Zone’ signs hung over homes that had been patched together in any way possible. The government had deemed the area too dangerous to inhabit, but families wanted to return to their old homes nevertheless.
+The third location was a part of the city nestled right against the ocean’s shore. Large ‘No Build Zone’ signs hung over homes that had been patched together in any way possible. The government had deemed the area too dangerous to inhabit, but families wanted to return to their old homes regardless.
 
-Still other parts of the city were already reconstructed. We stayed in a hotel room near a fully operational mall. Many shops were bustling and school appeared to be back in full swing, as uniformed children were out and about on their lunch break at mid-day.
+Still other parts of the city were already reconstructed. We stayed in a hotel room near a fully operational mall. Many shops were bustling and school appeared to be back in full swing, as uniformed children were out and about on their lunch break at midday.
 
 {% figure_img 1 caption %}
 
