@@ -88,6 +88,8 @@ figcaption, figcaption p {
     font-size: 0.8rem;
     text-align: right;
     color: #777;
+    line-height: 1.2rem;
+    margin-top: 4px;
 }
 .entry.drop-cap > p:first-of-type:first-letter {
     font-weight: bold;
