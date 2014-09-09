@@ -1,8 +1,8 @@
 ---
-title: Tacloban City
+title: "Tacloban: A City Under Construction"
 layout: blog
 featured_image: blog/post4.2.jpg
-description: Construction workers were rebuilding buildings at almost every turn, and at all hours of the day. Men worked by lamp light around 9 PM in Tacloban City on a Sunday. ...
+description: Construction workers were rebuilding buildings at almost every turn, and at all hours of the day. Men worked by lamp light around 9 p.m. in Tacloban City on a Sunday.
 image:
     - url: blog/post4.1.jpg
       caption: Workers construct permanent housing for displaced victims of Typhoon Yolanda. Many workers are displaced victims themselves, putting in required hours to obtain housing. (Photo by Neil Bedi)
@@ -16,7 +16,7 @@ image:
       caption: Cecilia Jimenez, an attorney working with the Commission of Human Rights, and Keneath Bolisay, an external relations associate with the UNHCR, focus on providing advocacy and services for refugees of Typhoon Yolanda. (Photo by Neil Bedi)
       alt: Cecilia Jimenez
 ---
-Construction workers were rebuilding buildings at almost every turn, and at all hours of the day. Men worked by lamp light around 9 PM in Tacloban City on a Sunday.
+Construction workers were rebuilding buildings at almost every turn, and at all hours of the day. Men worked by lamp light around 9 p.m. in Tacloban City on a Sunday.
 
 Some buildings were outfitted with temporary fixes. Tarps and plastic lean-tos shielded roofless buildings from the rain.
 
