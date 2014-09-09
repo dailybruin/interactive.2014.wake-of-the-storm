@@ -2,7 +2,7 @@
 title: "Tacloban: A City Under Construction"
 layout: blog
 featured_image: blog/post4.2.jpg
-description: Construction workers were rebuilding structures at almost every turn, and at all hours of the day. Men worked by lamp light around 9 p.m. on a Sunday in Tacloban City.
+description: Construction workers were rebuilding structures at almost every turn and at all hours of the day. Men worked by lamplight around 9 p.m. on a Sunday in Tacloban.
 image:
     - url: blog/post4.1.jpg
       caption: Workers construct permanent housing for displaced victims of Typhoon Yolanda. Many workers are displaced victims themselves, putting in required hours to obtain housing. (Photo by Neil Bedi)
@@ -13,10 +13,10 @@ image:
       alt: Children at a temporary housing location.
 
     - url: blog/post4.3.jpg
-      caption: Cecilia Jimenez, an attorney working with the Commission of Human Rights, and Keneath Bolisay, an external relations associate with the UNHCR, focus on providing advocacy and services for refugees of Typhoon Yolanda. (Photo by Neil Bedi)
+      caption: Cecilia Jimenez, an attorney working with the Commission on Human Rights, and Keneath Bolisay, an external relations associate with the UNHCR, focus on providing advocacy and services for refugees of Typhoon Yolanda. (Photo by Neil Bedi)
       alt: Cecilia Jimenez
 ---
-Construction workers were rebuilding structures at almost every turn, and at all hours of the day. Men worked by lamp light around 9 p.m. on a Sunday in Tacloban City.
+Construction workers were rebuilding structures at almost every turn and at all hours of the day. Men worked by lamplight around 9 p.m. on a Sunday in Tacloban.
 
 Some buildings were outfitted with temporary fixes. Tarps and plastic lean-tos shielded roofless buildings from the rain.
 
@@ -34,9 +34,9 @@ Still other parts of the city were already reconstructed. We stayed in a hotel r
 
 {% figure_img 1 caption %}
 
-And although Tacloban City looked very different than Manila and Olongapo, the people we met were just as friendly and kind.
+And although Tacloban looked very different from Manila and Olongapo, the people we met were just as friendly and kind.
 
-Inside the temporary housing camp, a bus load of elementary school children yelled “Hello” in cheerful voices as we passed by.
+Inside the temporary housing camp, a busload of elementary school children yelled “hello” in cheerful voices as we passed by.
 
 People smiled and laughed whenever they spoke to us. Even when responding to difficult questions or recalling painful memories, the local Filipino people have often been armed with a slight chuckle.
 
