@@ -9,4 +9,4 @@
 
 ***
 
-Note: This site is in active development. Use of any part of this outside of the UCLA Daily Bruin is strictly prohibited without written permission.
+Note: This site is in active development. Use of any part of this repo outside of the UCLA Daily Bruin without written permission is strictly prohibited.
