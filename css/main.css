@@ -299,3 +299,6 @@ figcaption, figcaption p {
     top: -16px;
     opacity: 0.6;
 }
+.bt-video-container {
+    margin-bottom: 15px;
+}
