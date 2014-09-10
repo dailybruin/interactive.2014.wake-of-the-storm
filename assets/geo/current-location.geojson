@@ -1,1 +1,907 @@
-{"type":"FeatureCollection","features":[{"geometry":{"type":"Point","coordinates":[121.014404296875,14.523768299391312]},"properties":{"description":"Manila, capital of the Philippines, is home to the country's major international airport. We used the city as a transportation hub to get to and from the United States, Olongapo, and Tacloban.","id":"marker-hzr2mzme0","marker-color":"#9c89cc","marker-size":"medium","marker-symbol":"","title":"Manila"},"type":"Feature"},{"geometry":{"type":"LineString","coordinates":[[121.01852416992186,14.53972059229513],[121.02127075195311,14.58225440570717],[121.014404296875,14.631423888251149],[120.99929809570312,14.657997403502987],[120.9979248046875,14.691209764218868],[120.93475341796875,14.812060061226388],[120.87982177734374,14.855868275768431],[120.82763671875,14.891704754215477],[120.75622558593749,14.977953289659979],[120.68893432617188,15.060188772055131],[120.6573486328125,15.114552871944102],[120.61477661132811,15.16227572090282],[120.58868408203125,15.220589019578128],[120.56945800781249,15.220589019578128],[120.5584716796875,15.163601202011964],[120.52276611328124,15.16227572090282],[120.50216674804688,15.110575482719193],[120.52139282226561,15.046927127756602],[120.46096801757811,15.001831368404192],[120.4541015625,14.857195658870625],[120.39916992187499,14.839939042477663],[120.34973144531249,14.83861155338482],[120.30166625976561,14.824008635708967]]},"properties":{"description":"","id":"marker-hzr2pfa21","stroke":"#9c89cc","stroke-opacity":1,"stroke-width":4,"title":"Bus between Manila and Olongapo"},"type":"Feature"},{"geometry":{"type":"Point","coordinates":[120.29067993164064,14.82533621439876]},"properties":{"description":"Home of Mercy in Action's birthing clinic.","id":"marker-hzr2pugg2","marker-color":"#9c89cc","marker-size":"medium","marker-symbol":"","title":"Olongapo"},"type":"Feature"},{"geometry":{"type":"Point","coordinates":[125.01823425292969,11.205345367851104]},"properties":{"description":"Tacloban is a major city that was heavily damaged by Typhoon Yolanda.","id":"marker-hzr2qg5a3","marker-color":"#f86767","marker-size":"medium","marker-symbol":"","title":"Tacloban"},"type":"Feature"},{"geometry":{"type":"Point","coordinates":[123.9832878112793,10.307150385109713]},"properties":{"description":"We have a layover at Cebu City on route to Tacloban. The city was home to many refugees in the immediate aftermath of the typhoon.","id":"marker-hzrtupv60","marker-color":"#9c89cc","marker-size":"medium","marker-symbol":"","title":"Cebu City"},"type":"Feature"},{"geometry":{"type":"LineString","coordinates":[[121.014404296875,14.551684056143447],[123.98757934570312,10.306812602471465]]},"properties":{"description":"","id":"marker-hzrtyohc2","stroke":"#9c89cc","stroke-opacity":1,"stroke-width":4,"title":"Flight between Manila and Cebu City"},"type":"Feature"},{"geometry":{"type":"Point","coordinates":[124.60624694824217,11.009948530242038]},"properties":{"description":"We will be staying in Ormoc City while visiting the Water, Agroforestry, Nutrition and Development (WAND) Foundation.","id":"marker-hzru0gef4","marker-color":"#7ec9b1","marker-size":"medium","marker-symbol":"","title":"Ormoc City"},"type":"Feature"},{"geometry":{"type":"Point","coordinates":[124.69345092773438,10.919954866584556]},"properties":{"description":"The Water, Agroforestry, Nutrition and Development (WAND) Foundation works in Albuera helping locals reconstruct their agriculture-based livelihoods.","id":"marker-hzru26yq5","marker-color":"#7ec9b1","marker-size":"medium","marker-symbol":"","title":"Albuera Municipality"},"type":"Feature"},{"geometry":{"type":"Point","coordinates":[241.59004211425778,33.941081379205755]},"properties":{"description":"The start and end point of our journey.","id":"marker-hzs08tuq0","marker-color":"#9c89cc","marker-size":"medium","marker-symbol":"","title":"Los Angeles International Airport"},"type":"Feature"},{"geometry":{"type":"Point","coordinates":[126.45195007324219,37.44706118831117]},"properties":{"description":"Layover stop between Los Angeles and Manila.","id":"marker-hzs0br5j1","marker-color":"#9c89cc","marker-size":"medium","marker-symbol":"","title":"Incheon International Airport"},"type":"Feature"},{"geometry":{"type":"LineString","coordinates":[[241.5896987915039,33.941366203462636],[183.95507812499997,35.67514743608467],[126.4691162109375,37.45741810262938]]},"properties":{"description":"","id":"marker-hzs0j1gj2","stroke":"#9c89cc","stroke-opacity":1,"stroke-width":4,"title":"Flight between Los Angeles and Incheon"},"type":"Feature"},{"geometry":{"type":"LineString","coordinates":[[126.45263671875,37.448696585910376],[123.73352050781249,26.559049984075532],[121.014404296875,14.530415228007362]]},"properties":{"description":"","id":"marker-hzs0ly763","stroke":"#9c89cc","stroke-opacity":1,"stroke-width":4,"title":"Flight between Incheon and Manila"},"type":"Feature"},{"geometry":{"type":"LineString","coordinates":[[123.98895263671875,10.306812602471465],[125.01617431640625,11.203998252703641]]},"properties":{"description":"","id":"marker-hzs7lwvo0","stroke":"#9c89cc","stroke-opacity":1,"stroke-width":4,"title":"Flight between Cebu City and Tacloban"},"type":"Feature"}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.014404296875,
+          14.523768299391312
+        ]
+      },
+      "properties": {
+        "description": "Manila, capital of the Philippines, is home to the country's major international airport. We used the city as a transportation hub to get to and from the United States, Olongapo, and Tacloban.",
+        "id": "marker-hzr2mzme0",
+        "marker-color": "#9c89cc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Manila"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.01852416992186,
+            14.53972059229513
+          ],
+          [
+            121.02127075195311,
+            14.58225440570717
+          ],
+          [
+            121.014404296875,
+            14.631423888251149
+          ],
+          [
+            120.99929809570312,
+            14.657997403502987
+          ],
+          [
+            120.9979248046875,
+            14.691209764218868
+          ],
+          [
+            120.93475341796875,
+            14.812060061226388
+          ],
+          [
+            120.87982177734374,
+            14.855868275768431
+          ],
+          [
+            120.82763671875,
+            14.891704754215477
+          ],
+          [
+            120.75622558593749,
+            14.977953289659979
+          ],
+          [
+            120.68893432617188,
+            15.060188772055131
+          ],
+          [
+            120.6573486328125,
+            15.114552871944102
+          ],
+          [
+            120.61477661132811,
+            15.16227572090282
+          ],
+          [
+            120.58868408203125,
+            15.220589019578128
+          ],
+          [
+            120.56945800781249,
+            15.220589019578128
+          ],
+          [
+            120.5584716796875,
+            15.163601202011964
+          ],
+          [
+            120.52276611328124,
+            15.16227572090282
+          ],
+          [
+            120.50216674804688,
+            15.110575482719193
+          ],
+          [
+            120.52139282226561,
+            15.046927127756602
+          ],
+          [
+            120.46096801757811,
+            15.001831368404192
+          ],
+          [
+            120.4541015625,
+            14.857195658870625
+          ],
+          [
+            120.39916992187499,
+            14.839939042477663
+          ],
+          [
+            120.34973144531249,
+            14.83861155338482
+          ],
+          [
+            120.30166625976561,
+            14.824008635708967
+          ]
+        ]
+      },
+      "properties": {
+        "description": "",
+        "id": "marker-hzr2pfa21",
+        "stroke": "#9c89cc",
+        "stroke-opacity": 1,
+        "stroke-width": 4,
+        "title": "Bus between Manila and Olongapo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.29067993164064,
+          14.82533621439876
+        ]
+      },
+      "properties": {
+        "description": "Home of Mercy in Action's birthing clinic.",
+        "id": "marker-hzr2pugg2",
+        "marker-color": "#9c89cc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Olongapo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.01823425292969,
+          11.205345367851104
+        ]
+      },
+      "properties": {
+        "description": "Tacloban is a major city that was heavily damaged by Typhoon Yolanda.",
+        "id": "marker-hzr2qg5a3",
+        "marker-color": "#9c89cc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Tacloban"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9832878112793,
+          10.307150385109713
+        ]
+      },
+      "properties": {
+        "description": "We have a layover at Cebu City on route to Tacloban. The city was home to many refugees in the immediate aftermath of the typhoon.",
+        "id": "marker-hzrtupv60",
+        "marker-color": "#9c89cc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Cebu City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.014404296875,
+            14.551684056143447
+          ],
+          [
+            123.98757934570312,
+            10.306812602471465
+          ]
+        ]
+      },
+      "properties": {
+        "description": "",
+        "id": "marker-hzrtyohc2",
+        "stroke": "#9c89cc",
+        "stroke-opacity": 1,
+        "stroke-width": 4,
+        "title": "Flight between Manila and Cebu City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.60624694824217,
+          11.009948530242038
+        ]
+      },
+      "properties": {
+        "description": "We will be staying in Ormoc City while visiting the Water, Agroforestry, Nutrition and Development (WAND) Foundation.",
+        "id": "marker-hzru0gef4",
+        "marker-color": "#f86767",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Ormoc City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.69345092773438,
+          10.919954866584556
+        ]
+      },
+      "properties": {
+        "description": "The Water, Agroforestry, Nutrition and Development (WAND) Foundation works in Albuera helping locals reconstruct their agriculture-based livelihoods.",
+        "id": "marker-hzru26yq5",
+        "marker-color": "#7ec9b1",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Albuera Municipality"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          241.59004211425778,
+          33.941081379205755
+        ]
+      },
+      "properties": {
+        "description": "The start and end point of our journey.",
+        "id": "marker-hzs08tuq0",
+        "marker-color": "#9c89cc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Los Angeles International Airport"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45195007324219,
+          37.44706118831117
+        ]
+      },
+      "properties": {
+        "description": "Layover stop between Los Angeles and Manila.",
+        "id": "marker-hzs0br5j1",
+        "marker-color": "#9c89cc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Incheon International Airport"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            241.5896987915039,
+            33.941366203462636
+          ],
+          [
+            183.95507812499997,
+            35.67514743608467
+          ],
+          [
+            126.4691162109375,
+            37.45741810262938
+          ]
+        ]
+      },
+      "properties": {
+        "description": "",
+        "id": "marker-hzs0j1gj2",
+        "stroke": "#9c89cc",
+        "stroke-opacity": 1,
+        "stroke-width": 4,
+        "title": "Flight between Los Angeles and Incheon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.45263671875,
+            37.448696585910376
+          ],
+          [
+            123.73352050781249,
+            26.559049984075532
+          ],
+          [
+            121.014404296875,
+            14.530415228007362
+          ]
+        ]
+      },
+      "properties": {
+        "description": "",
+        "id": "marker-hzs0ly763",
+        "stroke": "#9c89cc",
+        "stroke-opacity": 1,
+        "stroke-width": 4,
+        "title": "Flight between Incheon and Manila"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            123.98895263671875,
+            10.306812602471465
+          ],
+          [
+            125.01617431640625,
+            11.203998252703641
+          ]
+        ]
+      },
+      "properties": {
+        "description": "",
+        "id": "marker-hzs7lwvo0",
+        "stroke": "#9c89cc",
+        "stroke-opacity": 1,
+        "stroke-width": 4,
+        "title": "Flight between Cebu City and Tacloban"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#9c89cc",
+        "stroke-opacity": 1,
+        "stroke-width": 4,
+        "title": "Bus between Ormoc City and Tacloban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.01945734024048,
+            11.206397797194331
+          ],
+          [
+            125.01531600952147,
+            11.209555062242996
+          ],
+          [
+            125.00947952270506,
+            11.212165041984735
+          ],
+          [
+            125.00252723693848,
+            11.224204320774966
+          ],
+          [
+            124.99943733215332,
+            11.222604725227477
+          ],
+          [
+            124.99600410461426,
+            11.216122063091237
+          ],
+          [
+            124.9925708770752,
+            11.205345367851104
+          ],
+          [
+            124.99119758605957,
+            11.205261173338199
+          ],
+          [
+            124.991455078125,
+            11.195410246187384
+          ],
+          [
+            124.99677658081055,
+            11.184211776587578
+          ],
+          [
+            125.00261306762695,
+            11.179243895836496
+          ],
+          [
+            124.99188423156738,
+            11.158361025861739
+          ],
+          [
+            124.97737884521484,
+            11.16745536362669
+          ],
+          [
+            124.97016906738281,
+            11.166444895720954
+          ],
+          [
+            124.96596336364745,
+            11.172086629842797
+          ],
+          [
+            124.96047019958496,
+            11.170739360022251
+          ],
+          [
+            124.9497413635254,
+            11.176381010635781
+          ],
+          [
+            124.94072914123535,
+            11.176212604743721
+          ],
+          [
+            124.93223190307617,
+            11.180001713657791
+          ],
+          [
+            124.92459297180174,
+            11.185558983808306
+          ],
+          [
+            124.91600990295409,
+            11.18606418490119
+          ],
+          [
+            124.90802764892577,
+            11.189516368790976
+          ],
+          [
+            124.89352226257324,
+            11.191873934145162
+          ],
+          [
+            124.88193511962889,
+            11.19246332248487
+          ],
+          [
+            124.86494064331055,
+            11.200714633249698
+          ],
+          [
+            124.84339714050293,
+            11.207955385593511
+          ],
+          [
+            124.83687400817871,
+            11.209807641957536
+          ],
+          [
+            124.8263168334961,
+            11.216711402024222
+          ],
+          [
+            124.82391357421874,
+            11.217637503632956
+          ],
+          [
+            124.82048034667969,
+            11.214269847190788
+          ],
+          [
+            124.80786323547363,
+            11.20837635399092
+          ],
+          [
+            124.79593276977539,
+            11.199956869621811
+          ],
+          [
+            124.79026794433594,
+            11.194568271047443
+          ],
+          [
+            124.77868080139159,
+            11.197430976531436
+          ],
+          [
+            124.77009773254393,
+            11.220752550892106
+          ],
+          [
+            124.7640037536621,
+            11.231444484503752
+          ],
+          [
+            124.75413322448729,
+            11.242556940487976
+          ],
+          [
+            124.75258827209473,
+            11.243903875747069
+          ],
+          [
+            124.73670959472656,
+            11.270841258048698
+          ],
+          [
+            124.72537994384764,
+            11.281783849056795
+          ],
+          [
+            124.70040321350096,
+            11.29533524924937
+          ],
+          [
+            124.69233512878417,
+            11.29887029187586
+          ],
+          [
+            124.68255043029784,
+            11.297523614108139
+          ],
+          [
+            124.68014717102051,
+            11.298954459026374
+          ],
+          [
+            124.67422485351562,
+            11.299375294408382
+          ],
+          [
+            124.6604061126709,
+            11.294661902857092
+          ],
+          [
+            124.64761734008788,
+            11.292305178038598
+          ],
+          [
+            124.6442699432373,
+            11.293567711598863
+          ],
+          [
+            124.63242530822754,
+            11.295587753738983
+          ],
+          [
+            124.62899208068848,
+            11.299291127381386
+          ],
+          [
+            124.62281227111815,
+            11.301058629760062
+          ],
+          [
+            124.61706161499023,
+            11.304930263559996
+          ],
+          [
+            124.60796356201172,
+            11.30652940139016
+          ],
+          [
+            124.59534645080566,
+            11.30240529092558
+          ],
+          [
+            124.58375930786133,
+            11.304930263559996
+          ],
+          [
+            124.58101272583008,
+            11.306192741535869
+          ],
+          [
+            124.57921028137206,
+            11.309222665985198
+          ],
+          [
+            124.5768928527832,
+            11.306276906536521
+          ],
+          [
+            124.5750904083252,
+            11.307791872321129
+          ],
+          [
+            124.57285881042482,
+            11.305856081286082
+          ],
+          [
+            124.57285881042482,
+            11.304425270812514
+          ],
+          [
+            124.57174301147461,
+            11.305519420640826
+          ],
+          [
+            124.56916809082031,
+            11.302573623126506
+          ],
+          [
+            124.56873893737792,
+            11.303751945765168
+          ],
+          [
+            124.56633567810059,
+            11.304004442843274
+          ],
+          [
+            124.56762313842775,
+            11.301226962751674
+          ],
+          [
+            124.5659065246582,
+            11.299964462905594
+          ],
+          [
+            124.56564903259279,
+            11.298196953782462
+          ],
+          [
+            124.56796646118164,
+            11.298196953782462
+          ],
+          [
+            124.56788063049316,
+            11.29600859406109
+          ],
+          [
+            124.5695114135742,
+            11.29584025800634
+          ],
+          [
+            124.56719398498535,
+            11.292894361058071
+          ],
+          [
+            124.56599235534668,
+            11.292557685195094
+          ],
+          [
+            124.56865310668945,
+            11.291884332284003
+          ],
+          [
+            124.5684814453125,
+            11.290790130433482
+          ],
+          [
+            124.5684814453125,
+            11.289275074829883
+          ],
+          [
+            124.56633567810059,
+            11.28885422463176
+          ],
+          [
+            124.5633316040039,
+            11.280857953649782
+          ],
+          [
+            124.5662498474121,
+            11.27900615388222
+          ],
+          [
+            124.56616401672362,
+            11.27631260563992
+          ],
+          [
+            124.56504821777344,
+            11.275639214634065
+          ],
+          [
+            124.56530570983887,
+            11.272693110431502
+          ],
+          [
+            124.56727981567383,
+            11.27159883546535
+          ],
+          [
+            124.56650733947754,
+            11.265117275277227
+          ],
+          [
+            124.5680522918701,
+            11.264528035289427
+          ],
+          [
+            124.56633567810059,
+            11.263854616682579
+          ],
+          [
+            124.56616401672362,
+            11.261076748267566
+          ],
+          [
+            124.5684814453125,
+            11.260740035122165
+          ],
+          [
+            124.56933975219725,
+            11.258635569037448
+          ],
+          [
+            124.56839561462402,
+            11.258298853035871
+          ],
+          [
+            124.56925392150879,
+            11.254594951022908
+          ],
+          [
+            124.56813812255858,
+            11.253753148465181
+          ],
+          [
+            124.56976890563965,
+            11.251480269267223
+          ],
+          [
+            124.56865310668945,
+            11.251311907131553
+          ],
+          [
+            124.56822395324706,
+            11.248702281444276
+          ],
+          [
+            124.57011222839354,
+            11.242472756825293
+          ],
+          [
+            124.57174301147461,
+            11.237758432479831
+          ],
+          [
+            124.57277297973631,
+            11.234559382778102
+          ],
+          [
+            124.57182884216309,
+            11.233885894109156
+          ],
+          [
+            124.57285881042482,
+            11.23329659023396
+          ],
+          [
+            124.5725154876709,
+            11.231781231884517
+          ],
+          [
+            124.57268714904784,
+            11.230097491050714
+          ],
+          [
+            124.57354545593263,
+            11.227487673343502
+          ],
+          [
+            124.57200050354002,
+            11.224288509768831
+          ],
+          [
+            124.5725154876709,
+            11.221762829274912
+          ],
+          [
+            124.56667900085449,
+            11.208123773026015
+          ],
+          [
+            124.5659065246582,
+            11.196841598304973
+          ],
+          [
+            124.56092834472655,
+            11.188421778353275
+          ],
+          [
+            124.56212997436522,
+            11.181769947536692
+          ],
+          [
+            124.55929756164551,
+            11.17520216733775
+          ],
+          [
+            124.55843925476074,
+            11.16526601205158
+          ],
+          [
+            124.5626449584961,
+            11.158024193067485
+          ],
+          [
+            124.56521987915039,
+            11.14674006882274
+          ],
+          [
+            124.56976890563965,
+            11.141518907906374
+          ],
+          [
+            124.57371711730957,
+            11.139918855962275
+          ],
+          [
+            124.57457542419434,
+            11.138150367260858
+          ],
+          [
+            124.57946777343751,
+            11.135792365608065
+          ],
+          [
+            124.5871067047119,
+            11.125012686277856
+          ],
+          [
+            124.5871067047119,
+            11.122907233591693
+          ],
+          [
+            124.57448959350586,
+            11.1149063746789
+          ],
+          [
+            124.57320213317871,
+            11.110189976056768
+          ],
+          [
+            124.58573341369629,
+            11.100756950116448
+          ],
+          [
+            124.58882331848145,
+            11.093934661103601
+          ],
+          [
+            124.58882331848145,
+            11.09250280244198
+          ],
+          [
+            124.59465980529785,
+            11.067991664081886
+          ],
+          [
+            124.60598945617676,
+            11.047690508415343
+          ],
+          [
+            124.60392951965332,
+            11.042130610734283
+          ],
+          [
+            124.60410118103027,
+            11.02250164549966
+          ],
+          [
+            124.6072769165039,
+            11.015172039215267
+          ],
+          [
+            124.60654735565186,
+            11.01494035328153
+          ],
+          [
+            124.60714817047119,
+            11.013465983976078
+          ],
+          [
+            124.60890769958495,
+            11.01289729669917
+          ],
+          [
+            124.60693359374999,
+            11.005988711696236
+          ]
+        ]
+      }
+    }
+  ]
+}
