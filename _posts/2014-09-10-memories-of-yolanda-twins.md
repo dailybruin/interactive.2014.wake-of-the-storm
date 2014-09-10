@@ -1,5 +1,5 @@
 ---
-title: "Memories of Yoland: Twins"
+title: "Memories of Yolanda: Twins"
 layout: blog
 description: Jenifer Bunquin, a midwife at Mercy in Action, recalls a fond memory during her time volunteering as a midwife in the disaster zone after Typhoon Yolanda.
 ---
