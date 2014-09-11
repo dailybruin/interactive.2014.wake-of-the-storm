@@ -7,8 +7,8 @@ exclude: [README.md]
 
 # Development settings. Override these in _config_production.yml
 production: false
-url: "http://54.213.78.143:4000"
-image_url: "http://54.213.78.143:4000/assets/images"
+url: "http://localhost:4000"
+image_url: "http://localhost:4000/assets/images"
 
 defaults:
   -
