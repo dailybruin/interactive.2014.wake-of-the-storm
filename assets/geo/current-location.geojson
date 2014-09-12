@@ -216,7 +216,7 @@
       "properties": {
         "description": "We will be staying in Ormoc City while visiting the Water, Agroforestry, Nutrition and Development (WAND) Foundation.",
         "id": "marker-hzru0gef4",
-        "marker-color": "#f86767",
+        "marker-color": "#9c89cc",
         "marker-size": "medium",
         "marker-symbol": "",
         "title": "Ormoc City"
@@ -360,7 +360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#9c89cc",
+        "stroke": "#f86767",
         "stroke-opacity": 1,
         "stroke-width": 4,
         "title": "Bus between Ormoc City and Tacloban"
