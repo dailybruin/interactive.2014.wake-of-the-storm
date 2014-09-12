@@ -48,4 +48,4 @@ The gardens that the WAND Foundation sponsored brightened up the bunk houses whe
 
 With all the new vegetation popping up out of the soil, the area around Ormoc City is ripe with regrowth.
 
-<span class="byline byline-blog">—Katie Shepherd</span>
+<span class="byline byline-blog">– Katie Shepherd</span>
