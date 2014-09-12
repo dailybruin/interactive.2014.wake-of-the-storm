@@ -156,7 +156,7 @@
       "properties": {
         "description": "Tacloban is a major city that was heavily damaged by Typhoon Yolanda.",
         "id": "marker-hzr2qg5a3",
-        "marker-color": "#9c89cc",
+        "marker-color": "#f86767",
         "marker-size": "medium",
         "marker-symbol": "",
         "title": "Tacloban"
@@ -360,7 +360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#f86767",
+        "stroke": "#9c89cc",
         "stroke-opacity": 1,
         "stroke-width": 4,
         "title": "Bus between Ormoc City and Tacloban"
