@@ -5,7 +5,7 @@ description: Barangay captain recalls the chaos immediately following the typhoo
 ---
 {% youtube i-034Ork0GM 640 360 %}
 
-In the Philippines, different districts or villages are called barangays, and each one has a chairman and a council who governs the goings on within the community. 
+In the Philippines, different districts or villages are called barangays, and each one has a chairman and a council who govern the goings-on within the community. 
 
 Gregorio Lantajo Jr. is the chairman or captain of the San Joaquin Barangay, which was hit hard by Typhoon Yolanda. 
 
