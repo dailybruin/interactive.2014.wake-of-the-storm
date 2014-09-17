@@ -156,7 +156,7 @@
       "properties": {
         "description": "Tacloban is a major city that was heavily damaged by Typhoon Yolanda.",
         "id": "marker-hzr2qg5a3",
-        "marker-color": "#f86767",
+        "marker-color": "#9c89cc",
         "marker-size": "medium",
         "marker-symbol": "",
         "title": "Tacloban"
@@ -198,7 +198,7 @@
       "properties": {
         "description": "",
         "id": "marker-hzrtyohc2",
-        "stroke": "#9c89cc",
+        "stroke": "#f86767",
         "stroke-opacity": 1,
         "stroke-width": 4,
         "title": "Flight between Manila and Cebu City"
