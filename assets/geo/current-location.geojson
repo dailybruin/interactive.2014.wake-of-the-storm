@@ -12,7 +12,7 @@
       "properties": {
         "description": "Manila, capital of the Philippines, is home to the country's major international airport. We used the city as a transportation hub to get to and from the United States, Olongapo, and Tacloban.",
         "id": "marker-hzr2mzme0",
-        "marker-color": "#f86767",
+        "marker-color": "#9c89cc",
         "marker-size": "medium",
         "marker-symbol": "",
         "title": "Manila"
@@ -326,7 +326,7 @@
       "properties": {
         "description": "",
         "id": "marker-hzs0ly763",
-        "stroke": "#9c89cc",
+        "stroke": "#f86767",
         "stroke-opacity": 1,
         "stroke-width": 4,
         "title": "Flight between Incheon and Manila"
