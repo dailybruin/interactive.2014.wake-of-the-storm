@@ -270,7 +270,7 @@
       "properties": {
         "description": "Layover stop between Los Angeles and Manila.",
         "id": "marker-hzs0br5j1",
-        "marker-color": "#f86767",
+        "marker-color": "#9c89cc",
         "marker-size": "medium",
         "marker-symbol": "",
         "title": "Incheon International Airport"
@@ -298,7 +298,7 @@
       "properties": {
         "description": "",
         "id": "marker-hzs0j1gj2",
-        "stroke": "#9c89cc",
+        "stroke": "#f86767",
         "stroke-opacity": 1,
         "stroke-width": 4,
         "title": "Flight between Los Angeles and Incheon"
