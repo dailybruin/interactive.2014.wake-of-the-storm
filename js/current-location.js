@@ -20,10 +20,6 @@ $(document).ready(function(){
         } catch (err) {
             return;
         }
-
-        if (props['marker-color'] == CURRENT_MARKER_COLOR) {
-            layer.togglePopup();
-        }
     });
 
     featureLayer.loadURL("{{site.url}}/assets/geo/current-location.geojson");

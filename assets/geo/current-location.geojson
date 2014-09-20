@@ -252,7 +252,7 @@
       "properties": {
         "description": "The start and end point of our journey.",
         "id": "marker-hzs08tuq0",
-        "marker-color": "#9c89cc",
+        "marker-color": "#f86767",
         "marker-size": "medium",
         "marker-symbol": "",
         "title": "Los Angeles International Airport"
@@ -298,7 +298,7 @@
       "properties": {
         "description": "",
         "id": "marker-hzs0j1gj2",
-        "stroke": "#f86767",
+        "stroke": "#9c89cc",
         "stroke-opacity": 1,
         "stroke-width": 4,
         "title": "Flight between Los Angeles and Incheon"
