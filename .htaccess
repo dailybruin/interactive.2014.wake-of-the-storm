@@ -1,1 +1,3 @@
-RedirectMatch ^/current-location((/index.html)|/)?$ /map
+---
+---
+RedirectMatch ^/current-location((/index.html)|/)?$ {{ site.url }}/map
