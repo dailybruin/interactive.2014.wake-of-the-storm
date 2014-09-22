@@ -1,2 +1,1 @@
-Redirect 302 /current-location(/?|(/index.html)?) /map
-Redirect 302 /current-location((/index.html)|/)? /map
+RedirectMatch ^/current-location((/index.html)|/)?$ /map
