@@ -1,0 +1,2 @@
+Redirect 302 /current-location(/?|(/index.html)?) /map
+Redirect 302 /current-location((/index.html)|/)? /map
