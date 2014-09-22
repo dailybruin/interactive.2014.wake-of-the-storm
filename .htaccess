@@ -1,3 +1,1 @@
----
----
 RedirectMatch ^/current-location((/index.html)|/)?$ /map
