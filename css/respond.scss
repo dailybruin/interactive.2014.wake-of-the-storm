@@ -81,15 +81,12 @@
     left: 0;
     top: 0;
     bottom: 0;
-    overflow-y: scroll;
+    overflow-y: auto;
     nav {
       display: block;
       .nav-item {
         padding: 12px;
         text-align: right;
-        &:first-child {
-          border-top: 1px solid #888;
-        }
       }
     }
     #sidebar-logo {

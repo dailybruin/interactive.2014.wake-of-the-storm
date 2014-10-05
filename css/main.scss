@@ -3,6 +3,8 @@
 
 /* Copyright Daily Bruin 2014 */
 
+$purple_primary: #515791;
+
 p {
   font-family: Georgia, serif;
 }
@@ -12,7 +14,7 @@ figure {
 }
 
 a {
-  color: #515791;
+  color: $purple_primary;
   &.button, &:visited.button {
     color: white;
   }
@@ -40,7 +42,7 @@ h2 {
 }
 
 h1 {
-  color: #515791;
+  color: $purple_primary;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
   font-weight: 200;
@@ -84,13 +86,13 @@ figcaption {
   text-align: right;
   display: inline-block;
   text-decoration: none;
-  color: #515791;
+  color: $purple_primary;
   width: 100%;
   margin-bottom: 40px;
   a {
-    color: #515791;
+    color: $purple_primary;
     &:visited {
-      color: #515791;
+      color: $purple_primary;
     }
     text-decoration: none;
     display: inline-block;
@@ -162,11 +164,11 @@ figcaption {
 
 #sidebar {
   width: 100%;
-  background-color: #222222;
+  background-color: rgba(255,255,255, 0.8);
   z-index: 1;
   position: relative;
   #sidebar-logo {
-    color: white;
+    color: black;
     font-weight: 100;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: block;
@@ -222,29 +224,20 @@ figcaption {
   nav .nav-item {
     display: block;
     width: 100%;
-    color: white;
+    color: black;
     padding: 7px 10px;
     display: block;
     width: 100%;
-    color: #ddd;
-    border-bottom: 1px solid #888;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 0.8rem;
-    text-transform: uppercase;
     letter-spacing: 1.2px;
     font-weight: 200;
     &:hover {
-      color: white;
-      background-color: #333;
+      background-color: rgba(0,0,0, 0.05);
     }
     &.active {
-      background-color: #515791;
-      color: white;
-      border-bottom-color: #222;
-      margin-top: -1px;
-      &:first-child {
-        border-top: 1px solid #222;
-      }
+      background-color: rgba(0,0,0, 0.1);
+      border-right: 4px solid $purple_primary;
+      font-weight: bold;
     }
   }
 }
