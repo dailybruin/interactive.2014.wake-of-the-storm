@@ -217,6 +217,14 @@ figcaption {
   }
   nav {
     display: none;
+    h2 {
+      text-transform: uppercase;
+      font-family: sans-serif;
+      font-size: 0.8rem;
+      color: #555;
+      text-align: right;
+      margin-right: 12px;
+    }
   }
   &.expanded nav {
     display: block;
