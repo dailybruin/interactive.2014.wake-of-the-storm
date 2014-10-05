@@ -14,10 +14,12 @@ layout: narrow
                 </div>
             </div>
         </header>
-        <figure class="story-location">
-            <figcaption>{{ page.story_location }}</figcaption>
-            <img src="{{ site.url }}/assets/images/{{ page.story_location_map }}"/>
-        </figure>
-        <div class="entry drop-cap {% if page.cover %}has-cover{% endif %}">{{ content }}</div>
+        <div class="entry drop-cap {% if page.cover %}has-cover{% endif %}">
+            <figure class="story-location">
+                <figcaption>{{ page.story_location }}</figcaption>
+                <img src="{{ site.url }}/assets/images/story/{{ page.story_location_map }}"/>
+            </figure>
+            {{ content }}
+        </div>
     </div>
 </div>

@@ -5,6 +5,8 @@ slug: lasting-damage
 date: 12 October 2014
 author: Katie Shepherd
 cover: story/story1.1.jpg
+story_location: Leyte, Philippines
+story_location_map: inset-map-leyte.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum elementum ligula a sodales. Sed eget sapien dignissim, viverra arcu et, finibus magna. Donec nec vestibulum arcu, at lacinia augue. Aliquam erat volutpat. Sed hendrerit condimentum ligula, mollis scelerisque metus vulputate accumsan. Donec suscipit in felis eget suscipit. Ut dapibus ex et massa efficitur ultrices. Nulla odio orci, condimentum quis placerat et, sodales at augue. Nunc vel malesuada velit. In dignissim hendrerit condimentum. In id ex ullamcorper, venenatis felis a, ultrices libero. Nulla suscipit dignissim elit eu scelerisque. Praesent non lacus laoreet, bibendum lectus quis, venenatis nulla. Ut quis lacus at tellus efficitur posuere quis ut orci. Sed in sem eget leo accumsan sollicitudin eu quis mauris.

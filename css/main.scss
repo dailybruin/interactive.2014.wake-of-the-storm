@@ -123,6 +123,22 @@ figcaption {
     display: inline-block;
     margin-right: 5px;
   }
+  figure.story-location {
+    float: right;
+    margin: 0;
+    padding: 0; 
+    margin-left: 1rem;
+    figcaption {
+      font-weight: bold;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    img {
+      border: 1px solid rgba(0,0,0, 0.1);
+    }
+  }
 }
 
 .breadcrumb {
@@ -399,16 +415,5 @@ figcaption {
   }
   .article-info {
     text-align: left;
-  }
-}
-figure.story-location {
-  float: right;
-  margin: 0;
-  padding: 0; 
-  margin-left: 1rem;
-  figcaption {
-    font-weight: bold;
-    text-align: center;
-    text-transform: uppercase;
   }
 }
