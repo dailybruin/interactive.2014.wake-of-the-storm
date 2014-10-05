@@ -383,6 +383,32 @@ figcaption {
     top: 0;
   }
 }
-.story.has-cover {
-margin-top: 560px;
+.entry.has-cover {
+  margin-top: 560px;
+}
+.story-intro.has-cover {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0, 0.8);
+  padding: 0 1.5em;
+  color: white;
+  h2 {
+    color: white;
+    text-align: left;
+  }
+  .article-info {
+    text-align: left;
+  }
+}
+figure.story-location {
+  float: right;
+  margin: 0;
+  padding: 0; 
+  margin-left: 1rem;
+  figcaption {
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+  }
 }

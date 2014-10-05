@@ -106,8 +106,11 @@
     right: 30px;
     bottom: auto;
   }
-  .story.has-cover {
+  .entry.has-cover {
     margin-top: 640px;
+  }
+  .story-intro.has-cover {
+    padding: 0 1.5em 0 300px;
   }
 }
 

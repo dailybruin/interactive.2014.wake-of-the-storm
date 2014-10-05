@@ -5,15 +5,19 @@ layout: narrow
     <div class="small-12 columns story">
         <header>
             {% if page.cover %}<div id="cover" style="background-image: url({{ site.url }}/assets/images/{{ page.cover }})"/>{% endif %}
-        </header>
-        <div class="story{% if page.cover %} has-cover{% endif %}">
-            <h2>{{ page.title }}</h2>
-            <div class="article-info">
-                <span class="author">By {{ page.author }}</span>
-                <span class="separator">&bull;</span>
-                <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%B %-d, %Y"}}</time>
+            <div class="story-intro{% if page.cover %} has-cover{% endif %}">
+                <h2>{{ page.title }}</h2>
+                <div class="article-info">
+                    <span class="author">By {{ page.author }}</span>
+                    <span class="separator">&bull;</span>
+                    <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%B %-d, %Y"}}</time>
+                </div>
             </div>
-            <div class="entry drop-cap {% if page.cover %}has-cover{% endif %}">{{ content }}</div>
-        </div>
+        </header>
+        <figure class="story-location">
+            <figcaption>{{ page.story_location }}</figcaption>
+            <img src="{{ site.url }}/assets/images/{{ page.story_location_map }}"/>
+        </figure>
+        <div class="entry drop-cap {% if page.cover %}has-cover{% endif %}">{{ content }}</div>
     </div>
 </div>
