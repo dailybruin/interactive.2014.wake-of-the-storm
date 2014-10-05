@@ -8,10 +8,6 @@ layout: narrow
         <h1>Blog</h1>
         <span class="subhead">Daily Bruin sent a team of reporters to the Philippines to cover Typhoon Haiyan/Yolanda recovery. <a href="{{ site.url }}/about">Learn more about the project</a>.</span>
 
-        <div class="row"><div class="small-12 large-10 large-offset-1 columns">
-            {% include subscribe-form.html %}
-        </div></div>
-
         {% for post in site.posts %}
             <header>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
