@@ -115,7 +115,11 @@
 /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
 
 /* XLarge screens */
-@media only screen and (min-width: 90.063em) {}
+@media only screen and (min-width: 90.063em) {
+  #main-content > .row {
+    position: relative;
+  }
+}
 
 /* min-width 1441px, xlarge screens */
 

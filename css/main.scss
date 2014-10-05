@@ -150,6 +150,9 @@ figcaption {
     left: 0;
     padding-left: 0;
   }
+  .columns {
+    position: static;
+  }
 }
 
 #nameplate {
@@ -343,4 +346,42 @@ figcaption {
 
 .bt-video-container {
   margin-bottom: 15px;
+}
+
+.entry, .story {
+  position: static;
+}
+
+.story {
+  $cover_height: 620px;
+  h2 {
+    border-bottom: none;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 0;
+  }
+  .article-info {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  .author {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
+  time {
+    font-size: 0.9rem;
+  }
+  #cover {
+    background: center no-repeat;
+    background-size: cover;
+    height: $cover_height;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+  }
+  .entry.has-cover {
+    margin-top: 640px;
+  }
 }
