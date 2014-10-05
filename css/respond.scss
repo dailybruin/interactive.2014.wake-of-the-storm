@@ -61,7 +61,8 @@
     bottom: auto;
   }
   #main-content {
-    left: 220px;
+    left: 0px;
+    padding-left: 250px;
     position: absolute;
     right: 0;
     bottom: 0;
@@ -71,21 +72,20 @@
     height: 100%;
     &.current-location-wrap {
       top: 0;
-      left: 220px;
     }
   }
   #sidebar {
     width: 220px;
     height: 100%;
     position: absolute;
-    left: 0;
+    left: 30px;
     top: 0;
     bottom: 0;
     overflow-y: auto;
     nav {
       display: block;
       .nav-item {
-        padding: 12px;
+        padding: 8px 12px;
         text-align: right;
       }
     }

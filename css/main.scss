@@ -37,7 +37,7 @@ h2 {
   font-size: 2rem;
   font-family: Georgia;
   font-weight: bold;
-  border-bottom: 1px solid #dbdbdb;
+  border-bottom: 1px solid rgba(0,0,0, 0.1); 
   margin-top: 15px;
 }
 
@@ -148,6 +148,7 @@ figcaption {
     bottom: 0;
     top: 88px;
     left: 0;
+    padding-left: 0;
   }
 }
 
@@ -263,7 +264,7 @@ figcaption {
   background-color: rgba(255, 255, 255, 0.85);
   min-width: 200px;
   pointer-events: none;
-  max-width: 40%;
+  max-width: 34%;
 }
 
 .legend-title {
