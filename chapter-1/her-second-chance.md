@@ -12,6 +12,10 @@ story_location_map: inset-map-tanauan.jpg
 image:
     - url: story/her-second-chance-2.jpg
       caption: Nerissa Cumpio points out her newly built facility to guests at the clinic’s grand opening on Sept. 16. The birth clinic provides midwifery services and preventative care for free. (Photo by Neil Bedi)
+    - url: story/her-second-chance-3.jpg
+      caption: The new birth clinic was sponsored by several aid agencies, including Global Giving which received money from the UCLA community in the months following the storm.
+    - url: story/her-second-chance-4.jpg
+      caption: Nerissa Cumpio and her husband lived in a tent after their home was destroyed in Typhoon Yolanda. The tent still stands on their property, serving as a storage unit as they rebuild their lives, home and clinic.
 ---
 
 TANAUAN, Philippines — Only the floor of the clinic was left, surrounded by wet piles of rubble left after several 16-foot waves devastated the coastal town. 
@@ -23,6 +27,8 @@ Nerissa Cumpio said she survived by evacuating to her grandmother’s home 4 kil
 It would be four days before any relief arrived in Tanauan, including efforts from aid agencies supported in part by UCLA student donations.
 
 The storm stripped the trees of their leaves and turned the ground a muddy brown. Cumpio returned to her home and clinic two days after the storm to see just the floor remaining.
+
+{% figure_img 2 caption %}
 
 To get to her former home, she climbed a mountain of debris and saw dead people in the streets, she said.
 
@@ -87,6 +93,8 @@ In March, Penwell sent Cumpio another text that would change her life.
 Mercy in Action donated the grant to Cumpio’s clinic so that she could rebuild her business and continue giving midwifery services to the women who lived through the typhoon. 
 
 Last month, the new clinic opened its doors for the first time. 
+
+{% figure_img 1 caption %}
 
 Each room was painted a pastel yellow, green or purple. A tall wooden cabinet in the recovery room holds colorful baby blankets and a set of baby caps that will be given to each new mother before she leaves the center. 
 
