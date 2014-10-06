@@ -11,7 +11,7 @@ image:
     - url: graphics/donations.jpg
     - url: graphics/country-profile.jpg
     - url: story/a-network-of-support-2.jpg
-      caption: Nerissa Cumpio sits in the recovery room of her newly built birth center, which was partially supported by UCLA student donations, 10 months after Typhoon Yolanda. (Photo by Neil Bedi)
+      caption: Samahang Pilipino sold bracelets and shirts printed with its 2014 campaign slogan “Bayanihan,” which means “the spirit of communal unity to achieve a common objective.” (Photo by Neil Bedi)
 ---
 
 The deadly storm, one of the most devastating typhoons on record, garnered millions of  dollars in donations from around the globe, even from as far away as UCLA’s campus. 
