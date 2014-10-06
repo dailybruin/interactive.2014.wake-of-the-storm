@@ -6,10 +6,12 @@ date: 6 October 2014
 byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 featured_images: story/a-network-of-support-1.jpg
 cover: story/a-network-of-support-1.jpg
-cover_caption: Samahang Pilipino sold bracelets and shirts printed with its 2014 campaign slogan “Bayanihan,” which means “the spirit of communal unity to achieve a common objective.” (Photo by Neil Bedi)
+cover_caption: In urban areas of the Philippines, life is usually bustling as people travel to work or the market. (Above) People walk the streets of Olongapo, Philippines, the headquarters of Mercy in Action. (Photo by Neil Bedi)
 image:
     - url: graphics/donations.jpg
     - url: graphics/country-profile.jpg
+    - url: story/a-network-of-support-2.jpg
+      caption: Nerissa Cumpio sits in the recovery room of her newly built birth center, which was partially supported by UCLA student donations, 10 months after Typhoon Yolanda. (Photo by Neil Bedi)
 ---
 
 The deadly storm, one of the most devastating typhoons on record, garnered millions of  dollars in donations from around the globe, even from as far away as UCLA’s campus. 
@@ -89,6 +91,8 @@ Together, they have also worked on educational programs to inform people about c
 Similarly, members of Samahang Pilipino said they have worked with the National Alliance for Filipino Concerns in the past, and their relationship contributed to the donations given to the alliance.
 
 Donations through People’s CORE went to relief organizations like UNICEF and some grassroots organizations that were prepared to distribute immediate aid in the first few months after the disaster, Araquel-Concordia said. 
+
+{% figure_img 2 caption %}
 
 **International concern and local solutions**
 
