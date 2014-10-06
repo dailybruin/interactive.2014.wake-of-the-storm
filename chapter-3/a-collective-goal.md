@@ -6,6 +6,14 @@ date: 8 October 2014
 author: Katie Shepherd
 cover: story/story3.2.jpg
 cover_caption: Lorem ipsum dolor sit amet consectectur adspicing elit sed do eisumod.
+image:
+    - url: story/a-collective-goal-1.jpg
+      caption: (Photo by Neil Bedi)
+      alt: 
+
+    - url: story/a-collective-goal-2.jpg
+      caption: (Photo by Neil Bedi)
+      alt: 
 ---
 
 Millions of Filipinos are still without homes and jobs 11 months after the typhoon that devastated the islands of Leyte and Samar.  
@@ -24,6 +32,8 @@ Samahang Pilipino External Vice President Winnie Galbadores, a fourth-year socio
 
 “It truly helps to have representation in USAC,” she said. “Without that title and those powers, it would have been really hard to do what we did last year.” 
 
+{% figure_img 0 caption %}
+
 The move to provide donations was not without its detractors. Many members of the ASUCLA Board of Directors, which voted in favor of donating up to $6,000 to the cause, raised concerns over the board’s lack of official policy on donating to charities at the behest of students. 
 
 ASUCLA changed its donation policy in April to strongly discourage any direct monetary donations in response to some board members’ concerns over the fairness of using student fees for charitable causes, even when students advocate for the donations. 
@@ -37,6 +47,8 @@ The association can still donate percentages of sales from specific items, as it
 Even without the prospect of directly matched donations, the Filipino student organizations on campus are situated well to continue fundraising efforts this year, Sadile said. 
 
 Samahang Pilipino has been an active student organization on the UCLA campus for more than 40 years. 
+
+{% figure_img 1 caption %}
 
 “It was definitely our history of student activism and looking into the past, seeing other student organizations organizing to get something we want,” said Marien Padua, Samahang Pilipino’s PINAYS coordinator and a third-year Asian American studies student. “It made me believe we could raise the money.”
 
