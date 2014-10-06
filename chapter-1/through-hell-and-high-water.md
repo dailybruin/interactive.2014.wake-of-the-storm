@@ -6,21 +6,21 @@ date: 6 October 2014
 byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 featured_image: story/through-hell-and-high-water-1.jpg
 cover: story/through-hell-and-high-water-1.jpg
-cover_caption: Gregorio Lantajo Jr. recalls the chaos after Typhoon Yolanda, which tore through his barangay, or village, killing 377 and leveling hundreds of homes. Lantajo is a community leader from one of the hardest-hit areas.
+cover_caption: Gregorio Lantajo Jr. recalls the chaos after Typhoon Yolanda, which tore through his barangay, or village, killing 377 and leveling hundreds of homes. Lantajo is a community leader from one of the hardest-hit areas. (Photo by Neil Bedi)
 story_location: Tacloban, Philippines
 story_location_map: inset-map-tacloban.jpg
 editors-note: true
 image:
     - url: story/through-hell-and-high-water-2.jpg
-      caption: A grave of one of the San Joaquin residents killed by Typhoon Yolanda stands among hundreds of other handmade memorials.
+      caption: A grave of one of the San Joaquin residents killed by Typhoon Yolanda stands among hundreds of other handmade memorials. (Photo by Neil Bedi)
 
     - url: story/through-hell-and-high-water-3.jpg
-      caption: Sitting in the entrance of her temporary home, Algina Lacaba remembers pulling her children out of the floodwaters during the storm.
+      caption: Sitting in the entrance of her temporary home, Algina Lacaba remembers pulling her children out of the floodwaters during the storm. (Photo by Neil Bedi)
 
     - url: story/through-hell-and-high-water-4.jpg
 
     - url: story/through-hell-and-high-water-5.jpg
-      caption: Near the coastline of Tacloban, 10 ships washed ashore in the tumult of Typhoon Yolanda. Nearly a year later, this ship has yet to be removed. 
+      caption: Near the coastline of Tacloban, 10 ships washed ashore in the tumult of Typhoon Yolanda. Nearly a year later, this ship has yet to be removed. (Photo by Neil Bedi)
 ---
 
 TACLOBAN, Philippines — As water inched up the elementary school walls around 5 a.m. after three hours of heavy rain, the mother made her snap decision.

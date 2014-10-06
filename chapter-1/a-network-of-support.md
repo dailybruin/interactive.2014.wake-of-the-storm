@@ -6,12 +6,12 @@ date: 6 October 2014
 byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 featured_images: story/a-network-of-support-1.jpg
 cover: story/a-network-of-support-1.jpg
-cover_caption: In urban areas of the Philippines, life is usually bustling as people travel to work or the market. People walk the streets of Olongapo, Philippines, the headquarters of Mercy in Action.
+cover_caption: In urban areas of the Philippines, life is usually bustling as people travel to work or the market. People walk the streets of Olongapo, Philippines, the headquarters of Mercy in Action. (Photo by Neil Bedi)
 image:
     - url: graphics/donations.jpg
     - url: graphics/country-profile.jpg
     - url: story/a-network-of-support-2.jpg
-      caption: Samahang Pilipino sold bracelets and shirts printed with its 2014 campaign slogan “Bayanihan,” which means “the spirit of communal unity to achieve a common objective.”
+      caption: Samahang Pilipino sold bracelets and shirts printed with its 2014 campaign slogan “Bayanihan,” which means “the spirit of communal unity to achieve a common objective.” (Photo by Neil Bedi)
 ---
 
 The deadly storm, one of the most devastating typhoons on record, garnered millions of  dollars in donations from around the globe, even from as far away as UCLA’s campus. 
