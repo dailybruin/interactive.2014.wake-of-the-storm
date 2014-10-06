@@ -4,23 +4,18 @@ title: Her Second Chance
 slug: her-second-chance
 date: 6 October 2014
 author: Katie Shepherd
-cover: story/story1.3.jpg
-cover_caption: Lorem ipsum dolor sit amet consectectur adspicing elit sed do eisumod.
+cover: story/her-second-chance-1.jpg
+cover_caption: Nerissa Cumpio sits in the recovery room of her newly built birth center, which was partially supported by UCLA student donations, 10 months after Typhoon Yolanda.
 story_location: Tanauan, Philippines
 story_location_map: inset-map-tanauan.jpg
 image:
-    - url: story/her-second-chance-1.jpg
-      caption: (Photo by Neil Bedi)
-      alt: 
-
     - url: story/her-second-chance-2.jpg
-      caption: (Photo by Neil Bedi)
-      alt: 
+      caption: Nerissa Cumpio points out her newly built facility to guests at the clinic’s grand opening on Sept. 16. The birth clinic provides midwifery services and preventative care for free. (Photo by Neil Bedi)
 ---
 
 TANAUAN, Philippines — Only the floor of the clinic was left, surrounded by wet piles of rubble left after several 16-foot waves devastated the coastal town. 
 
-Nerissa Cumpio said she survived by evacuating to her grandmother’s home four kilometers inland, but her home and her midwife clinic in Tanauan were completely leveled by the storm surges that accompanied Typhoon Yolanda last November. 
+Nerissa Cumpio said she survived by evacuating to her grandmother’s home 4 kilometers inland, but her home and her midwife clinic in Tanauan were completely leveled by the storm surges that accompanied Typhoon Yolanda last November. 
 
 “It was like it was bombed,” she said. “It was like we were on another planet. Is this Earth?”
 
@@ -28,12 +23,10 @@ It would be four days before any relief arrived in Tanauan, including efforts fr
 
 The storm stripped the trees of their leaves and turned the ground a muddy brown. Cumpio returned to her home and clinic two days after the storm to see just the floor remaining.
 
-{% figure_img 0 caption %}
-
 To get to her former home, she climbed a mountain of debris and saw dead people in the streets, she said.
 
 “It was impossible to start again,” Cumpio said. “It was hard, even just to clean the rubble.”
- 
+
 Her two daughters couldn’t understand the situation. Amid the total destruction, the girls, 4 and 8, asked for milk. 
 
 But there was no milk. There wasn’t even clean water. 
@@ -48,9 +41,7 @@ While waiting in a long line for water and rice rations, people chatted and made
 
 It was a small joke because the women’s makeup had been washed away.
 
-When her family cooked their rice, it didn’t taste right, Cumpio said. The water was salty and made the rice taste strange. The ocean had contaminated the supplies of fresh water, and the problem persisted for days after the storm.
-
-{% figure_img 1 caption %}
+When her family cooked its rice, it didn’t taste right, Cumpio said. The water was salty and made the rice taste strange. The ocean had contaminated the supplies of fresh water, and the problem persisted for days after the storm.
 
 Just over a week after the typhoon, Cumpio’s 8-year-old daughter told her parents that her chest hurt. Worried that something had hit her during the storm, Cumpio examined her daughter for bruises or cuts, but there were no injuries.
 
@@ -90,12 +81,14 @@ In March, Penwell sent Cumpio another text that would change her life.
 
 “The day GlobalGiving told me they were giving us money, I was so excited to tell her,” Penwell said. With the flurry of donations in the months following Yolanda, including the small sums that individual UCLA students dropped into jars on Bruin Walk in December and January, GlobalGiving wrote a $15,000 check for Penwell’s birth center. 
 
+{% figure_img 0 caption %}
+
 Mercy in Action donated the grant to Cumpio’s clinic so that she could rebuild her business and continue giving midwifery services to the women who lived through the typhoon. 
 
 Last month, the new clinic opened its doors for the first time. 
 
-Each room was painted a different pastel yellow, green or purple. A tall wooden cabinet in the recovery room holds colorful baby blankets and a set of baby caps that will be given to each new mother before she leaves the center. 
+Each room was painted a pastel yellow, green or purple. A tall wooden cabinet in the recovery room holds colorful baby blankets and a set of baby caps that will be given to each new mother before she leaves the center. 
 
 “During the disaster, you can see the goodness of other people, even if they have different cultures and different beliefs,” Cumpio said.
 
-The new clinic serves any woman who comes to deliver her baby. In the spirit of paying it forward, all of Cumpio’s services are free.
+The new clinic serves any woman who comes to deliver her baby. In the spirit of paying it forward, all of Cumpio’s services are free. ■
