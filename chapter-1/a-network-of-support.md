@@ -1,6 +1,6 @@
 ---
 layout: story
-title: A Network of Suppport
+title: A Network of Support
 slug: a-network-of-support
 date: 6 October 2014
 author: Katie Shepherd
