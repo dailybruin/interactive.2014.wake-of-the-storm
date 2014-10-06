@@ -393,6 +393,34 @@ figcaption {
   opacity: 0.8;
 }
 
+.entry {
+  .editors-note {
+    margin-left: -16.6667%;
+    margin-right: -16.6667%;
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+    background-color: rgba(81, 87, 145, 0.1);
+    margin-bottom: 30px;
+    padding: 10px;
+    padding-top: 3px;
+    .editors-note-columns {
+      column-count: 2;
+      -webkit-column-count: 2;
+      -moz-column-count: 2;
+    }
+    h3 {
+        font-weight: bold;
+        font-size: 1.2em;
+        text-align: center;
+    }
+    p {
+      font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+      font-size: 0.85rem;
+      line-height: 0.95rem;
+      margin-bottom: 10px;
+    }
+  }
+}
+
 .story {
   $cover_height: 620px;
   h2 {

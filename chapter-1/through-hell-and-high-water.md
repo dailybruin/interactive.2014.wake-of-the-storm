@@ -8,6 +8,7 @@ cover: story/through-hell-and-high-water-1.jpg
 cover_caption: Gregorio Lantajo Jr. recalls the chaos after Typhoon Yolanda, which tore through his barangay, or village, killing 377 and leveling hundreds of homes. Lantajo is a community leader from one of the hardest-hit areas. (Photo by Neil Bedi)
 story_location: Tacloban, Philippines
 story_location_map: inset-map-tacloban.jpg
+editors-note: true
 image:
     - url: story/through-hell-and-high-water-2.jpg
       caption: A grave of one of the San Joaquin residents killed by Typhoon Yolanda stands among hundreds of other handmade memorials. (Photo by Neil Bedi)
