@@ -1,32 +1,16 @@
 {% include header.html %}
 
-{% if page.cover %}
-<div id="cover" style="background-image: url({{site.url}}/assets/images/{{page.cover}})">
+{% include sidebar.html %}
+
+<div id="main-content">
     <div class="row">
-        <div class="caption">{{ page.cover_caption }}</div>
-        <div class="large-9 large-offset-3 columns">
-            <h2>{{ page.title }}</h2>
-            <div class="article-info">
-                <span class="author">By {{ page.author }}</span>
-                <span class="separator">&bull;</span>
-                <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%B %-d, %Y"}}</time>
-            </div>
+        <div class="small-12 columns">
+            {{ content }}
         </div>
     </div>
-</div>
-{% endif %}
-<div class="row">
-    {% include sidebar.html %}
+    {% include footer-credits.html %}
+</div><!-- /main-content -->
 
-    <div id="main-content" class="large-9 columns">
-        <div class="row">
-            <div class="small-12 columns">
-                {{ content }}
-            </div>
-        </div>
-        {% include footer-credits.html %}
-    </div><!-- /main-content -->
-</div>
 
 {% include load_js.html %}
 

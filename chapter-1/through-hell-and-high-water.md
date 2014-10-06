@@ -4,7 +4,7 @@ title: Through Hell and High Water
 slug: through-hell-and-high-water
 date: 6 October 2014
 author: Katie Shepherd
-cover: story/through-hell-and-high-water-1.jpg
+cover: story/story1.1.jpg
 cover_caption: Lorem ipsum dolor sit amet consectectur adspicing elit sed do eisumod.
 story_location: Tacloban, Philippines
 story_location_map: inset-map-tacloban.jpg

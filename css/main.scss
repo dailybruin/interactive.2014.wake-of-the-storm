@@ -4,7 +4,6 @@
 /* Copyright Daily Bruin 2014 */
 
 $purple_primary: #515791;
-$purple_primary_rgb: "81, 87, 145";
 
 p {
   font-family: Georgia, serif;
@@ -158,6 +157,7 @@ figcaption {
 }
 
 #main-content {
+  background-color: white;
   &.current-location-wrap {
     position: absolute;
     right: 0;
@@ -165,6 +165,9 @@ figcaption {
     top: 88px;
     left: 0;
     padding-left: 0;
+  }
+  .columns {
+    position: static;
   }
 }
 
@@ -240,6 +243,7 @@ figcaption {
       font-size: 0.8rem;
       color: #555;
       text-align: right;
+      margin-right: 12px;
       cursor: default;
     }
   }
@@ -249,20 +253,20 @@ figcaption {
   nav .nav-item {
     display: block;
     width: 100%;
-    color: #333;
+    color: black;
     padding: 7px 10px;
     display: block;
     width: 100%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    letter-spacing: 0.5px;
+    letter-spacing: 1.2px;
     font-weight: 200;
     &:hover {
-      background-color: rgba(0,0,0, 0.04);
+      background-color: rgba(0,0,0, 0.05);
     }
     &.active {
-      background-color: rgba(81, 87, 145, 0.1);
+      background-color: rgba(0,0,0, 0.1);
       border-right: 4px solid $purple_primary;
-      font-weight: 400;
+      font-weight: bold;
     }
   }
 }
@@ -366,6 +370,7 @@ figcaption {
 }
 
 .story {
+  $cover_height: 620px;
   h2 {
     border-bottom: none;
     text-align: center;
@@ -384,23 +389,22 @@ figcaption {
   time {
     font-size: 0.9rem;
   }
-}
-#cover {
-  $cover_height: 620px;
-  background-size: cover;
-  background: center no-repeat;
-  height: $cover_height;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  .caption {
+  #cover {
+    background: center no-repeat;
+    background-size: cover;
+    height: $cover_height;
     position: absolute;
+    left: 0;
     right: 0;
-    background-color: rgba(0,0,0, 0.5);
-    color: white;
-    padding: 0.1em 0.4em;
-    font-size: 0.75em;
+    top: 0;
+    .caption {
+      position: absolute;
+      right: 0;
+      background-color: rgba(0,0,0, 0.5);
+      color: white;
+      padding: 0.1em 0.4em;
+      font-size: 0.75em;
+    }
   }
 }
 .entry.has-cover {

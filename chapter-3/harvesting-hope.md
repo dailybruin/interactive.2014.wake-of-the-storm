@@ -21,15 +21,15 @@ image:
       caption: (Photo by Neil Bedi)
       alt: 
 
-    - url: story/harvesting-hope-4.jpg
+	- url: story/harvesting-hope-4.jpg
       caption: (Photo by Neil Bedi)
       alt: 
 
-    - url: story/harvesting-hope-5.jpg
+	- url: story/harvesting-hope-5.jpg
       caption: (Photo by Neil Bedi)
       alt: 
 
-    - url: story/harvesting-hope-6.jpg
+	- url: story/harvesting-hope-6.jpg
       caption: (Photo by Neil Bedi)
       alt: 
 
@@ -41,7 +41,7 @@ image:
       caption: (Photo by Neil Bedi)
       alt: 
 
-    - url: story/harvesting-hope-9.jpg
+	- url: story/harvesting-hope-9.jpg
       caption: (Photo by Neil Bedi)
       alt: 
 ---
