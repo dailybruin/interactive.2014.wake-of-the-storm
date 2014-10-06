@@ -1,5 +1,20 @@
 {% include header.html %}
 
+{% if page.cover %}
+<div id="cover" style="background-image: url({{site.url}}/assets/images/{{page.cover}})">
+    <div class="row">
+        <div class="caption">{{ page.cover_caption }}</div>
+        <div class="large-9 large-offset-3 columns">
+            <h2>{{ page.title }}</h2>
+            <div class="article-info">
+                <span class="author">By {{ page.author }}</span>
+                <span class="separator">&bull;</span>
+                <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%B %-d, %Y"}}</time>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
 <div class="row">
     {% include sidebar.html %}
 

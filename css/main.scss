@@ -158,7 +158,6 @@ figcaption {
 }
 
 #main-content {
-  background-color: white;
   &.current-location-wrap {
     position: absolute;
     right: 0;
@@ -367,7 +366,6 @@ figcaption {
 }
 
 .story {
-  $cover_height: 620px;
   h2 {
     border-bottom: none;
     text-align: center;
@@ -386,22 +384,23 @@ figcaption {
   time {
     font-size: 0.9rem;
   }
-  #cover {
-    background: center no-repeat;
-    background-size: cover;
-    height: $cover_height;
+}
+#cover {
+  $cover_height: 620px;
+  background-size: cover;
+  background: center no-repeat;
+  height: $cover_height;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  .caption {
     position: absolute;
-    left: 0;
     right: 0;
-    top: 0;
-    .caption {
-      position: absolute;
-      right: 0;
-      background-color: rgba(0,0,0, 0.5);
-      color: white;
-      padding: 0.1em 0.4em;
-      font-size: 0.75em;
-    }
+    background-color: rgba(0,0,0, 0.5);
+    color: white;
+    padding: 0.1em 0.4em;
+    font-size: 0.75em;
   }
 }
 .entry.has-cover {

@@ -37,8 +37,15 @@
 @media only screen and (min-width: 64.063em) {
   .entry {
     figure {
-      margin-left: -16.66667%;
-      margin-right: -16.66667%;
+      margin-left: -33.33334%;
+      margin-right: 0;
+      &.vertical {
+        display: block;
+        float: right;
+        width: 70%;
+        margin-right: -16.66667%;
+        margin-left: 10px;
+      }
     }
     figcaption {
       padding-top: 0;
