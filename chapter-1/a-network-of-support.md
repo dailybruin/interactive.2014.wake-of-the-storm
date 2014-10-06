@@ -4,15 +4,16 @@ title: A Network of Suppport
 slug: a-network-of-support
 date: 6 October 2014
 author: Katie Shepherd
-cover: story/story1.2.jpg
-cover_caption: Lorem ipsum dolor sit amet consectectur adspicing elit sed do eisumod.
+cover: story/a-network-of-support-1.jpg
+cover_caption: Samahang Pilipino sold bracelets and shirts printed with its 2014 campaign slogan “Bayanihan,” which means “the spirit of communal unity to achieve a common objective.” (Photo by Neil Bedi)
 image:
-    - url: story/a-network-of-support-1.jpg
-      caption: (Photo by Neil Bedi)
-      alt: 
+    - url: graphics/donations.jpg
+    - url: graphics/country-profile.jpg
 ---
 
 The deadly storm, one of the most devastating typhoons on record, garnered millions of  dollars in donations from around the globe, even from as far away as UCLA’s campus. 
+
+{% figure_img vertical 1 %}
 
 UCLA students dropped their spare change into jars tied with red ribbons on Bruin Walk and pledged money at a benefit concert last winter to support the millions of Filipinos who were struggling to survive after Typhoon Yolanda struck last November. 
 
@@ -32,7 +33,10 @@ ASUCLA kept its promise. Students spent $60,000 for the cause, hitting the $6,00
 
 Students had no control over the money once it left their hands – the spending was left to relief organizations both international and local in scope. 
 
-----Where the Money Went
+**Where the Money Went**
+
+{% figure_img vertical 0 %}
+
 The $12,000, which mostly came from small donations of $5 to $20 and proceeds from the UCLA Store, helped thousands of people in the Philippines. 
 
 The money bought seeds for gardens where displaced people grow their own food, which allows them to save and earn money for permanent housing. It funded the delivery of more than 100 babies in the disaster zone and the rebuilding of a birth clinic that will continue helping women for years to come. The donations also bought emergency supplies that helped thousands of victims survive in the weeks after the storm.
@@ -57,7 +61,7 @@ Until relief stabilized access to basic necessities, people were forced to find 
 
 But months later, when food and shelter were easier to come by, the typhoon survivors needed another kind of relief effort – an investment in long-term recovery focused on rebuilding homes and livelihoods for people who lost everything in the storm. Student donations contributed to both types of aid.
 
-----Spending Strategies
+**Spending Strategies**
 
 International aid organizations focus on monetary donations that can buy emergency supplies after a disaster, but local relief groups tend to target their grants toward a systemic problem in the area, such as housing, sanitation or food security. 
 
@@ -68,8 +72,6 @@ Vicki Penwell, the owner and cofounder of Mercy In Action,a group of midwives ba
 In a stroke of luck for the volunteers who wanted to be part of an immediate relief response after the storm, the National Alliance for Filipino Concerns was already involved in relief work in the Visayan Islands of the Philippines because of an earthquake that had shaken the island of Bohol a month before the typhoon, said spokesman Jun Cruz.
 
 The existing infrastructure allowed the National Alliance for Filipino Concerns to immediately funnel donations toward direct relief for hard-to-reach and deeply affected communities, Cruz added.
-
-{% figure_img 0 caption %}
 
 By focusing on monetary donations, the National Alliance for Filipino Concerns said it circumvented bureaucratic roadblocks. The monetary donations were allocated to three types of aid: relief packs, doctors and health services and psychosocial intervention, Cruz said. 
 
@@ -85,7 +87,7 @@ Similarly, members of Samahang Pilipino said they have worked with the National 
 
 Donations through People’s CORE went to relief organizations like UNICEF and some grassroots organizations that were prepared to distribute immediate aid in the first few months after the disaster, Araquel-Concordia said. 
 
----Local Solutions
+**Local Solutions**
 
 The third organization UCLA students donated to, GlobalGiving, focused on funding local efforts to address lasting problems caused by the typhoon, such as access to fresh water and food, availability of housing and the ability to earn a steady income. 
 
@@ -99,4 +101,4 @@ From the almost $1.6 million typhoon relief fund, GlobalGiving gave money to Mer
 
 Lake said GlobalGiving plans to keep matching funds for organizations like Mercy in Action and the WAND Foundation on the one- and two-year anniversaries of the typhoon to support ongoing recovery efforts in the Philippines.
 
-UCLA Mabuhay Collective said it plans to continue its fundraising this year in order to provide aid to the recovering Filipinos on the other side of the world as they continue the long effort to rebuild. 
+UCLA Mabuhay Collective said it plans to continue its fundraising this year in order to provide aid to the recovering Filipinos on the other side of the world as they continue the long effort to rebuild. ■
