@@ -6,7 +6,7 @@ date: 6 October 2014
 byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 featured_images: story/a-network-of-support-1.jpg
 cover: story/a-network-of-support-1.jpg
-cover_caption: In urban areas of the Philippines, life is usually bustling as people travel to work or the market. (Above) People walk the streets of Olongapo, Philippines, the headquarters of Mercy in Action. (Photo by Neil Bedi)
+cover_caption: In urban areas of the Philippines, life is usually bustling as people travel to work or the market. People walk the streets of Olongapo, Philippines, the headquarters of Mercy in Action. (Photo by Neil Bedi)
 image:
     - url: graphics/donations.jpg
     - url: graphics/country-profile.jpg
