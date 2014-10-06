@@ -4,7 +4,7 @@ title: Through Hell and High Water
 slug: through-hell-and-high-water
 date: 6 October 2014
 author: Katie Shepherd
-cover: story/story1.1.jpg
+cover: story/through-hell-and-high-water-1.jpg
 cover_caption: Lorem ipsum dolor sit amet consectectur adspicing elit sed do eisumod.
 story_location: Tacloban, Philippines
 story_location_map: inset-map-tacloban.jpg
@@ -29,8 +29,6 @@ image:
       caption: (Photo by Neil Bedi)
       alt:  
 ---
-
-{% figure_img 0 caption %}
 
 TACLOBAN, Philippines — As water inched up the elementary school walls around 5 a.m. after three hours of heavy rain, the mother made her snap decision.
 
