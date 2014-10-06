@@ -8,11 +8,11 @@ cover: story/story3.2.jpg
 cover_caption: Lorem ipsum dolor sit amet consectectur adspicing elit sed do eisumod.
 image:
     - url: story/a-collective-goal-1.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/a-collective-goal-2.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 ---
 

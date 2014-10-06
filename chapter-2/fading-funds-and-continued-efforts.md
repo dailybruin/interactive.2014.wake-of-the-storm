@@ -10,11 +10,11 @@ story_location: Leyte, Philippines
 story_location_map: inset-map-leyte.jpg
 image:
     - url: story/fading-funds-and-continued-efforts-1.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/fading-funds-and-continued-efforts-2.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 ---
 

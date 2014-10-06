@@ -10,39 +10,39 @@ story_location: Leyte, Philippines
 story_location_map: inset-map-leyte.jpg
 image:
     - url: story/harvesting-hope-1.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-2.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-3.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-4.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-5.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-6.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-7.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-8.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/harvesting-hope-9.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 ---
 

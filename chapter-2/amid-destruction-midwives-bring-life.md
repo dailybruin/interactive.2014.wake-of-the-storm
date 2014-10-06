@@ -10,27 +10,27 @@ story_location: Olongapo, Philippines
 story_location_map: inset-map-olongapo.jpg
 image:
     - url: story/amid-destruction-midwives-bring-life-1.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/amid-destruction-midwives-bring-life-2.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/amid-destruction-midwives-bring-life-3.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt:
 
     - url: story/amid-destruction-midwives-bring-life-4.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt:
 
     - url: story/amid-destruction-midwives-bring-life-5.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt: 
 
     - url: story/amid-destruction-midwives-bring-life-6.jpg
-      caption: (Photo by Neil Bedi)
+      caption:
       alt:   
 ---
 {% figure_img 0 caption %}
