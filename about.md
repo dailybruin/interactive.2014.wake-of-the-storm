@@ -21,6 +21,4 @@ Our project focuses on the ongoing recovery efforts in the Philippines after Typ
 
 While we’re in the Philippines reporting, we’ll be sharing our journey on our blog. And when we make it back to Los Angeles, we’ll create a full package of coverage to publish in the Daily Bruin early Fall quarter. 
 
-The story we’re pursuing focuses on following the money that UCLA students donated to relief efforts in the immediate aftermath of the typhoon. We hope to give students an idea of where their money went, who they helped and how much aid their donations were able to provide. 
-
-Keep your eyes peeled for our final project in the pages of the Daily Bruin and online here ([yolanda.dailybruin.com](http://yolanda.dailybruin.com/)) in a few weeks.
+The story we’re pursuing focuses on following the money that UCLA students donated to relief efforts in the immediate aftermath of the typhoon. We hope to give students an idea of where their money went, who they helped and how much aid their donations were able to provide. ■

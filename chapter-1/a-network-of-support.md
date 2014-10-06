@@ -27,13 +27,15 @@ Student groups said they will continue gathering funds throughout the 2014-2015 
 
 In the months following the storm, UCLA students, led by the Typhoon Haiyan Relief Committee, raised $6,000 to support typhoon recovery in the Philippines.
 
-After a push from students earlier this year, Associated Students UCLA agreed to match the donations in late January, said Bob Williams, ASUCLA executive director. During the first week of February, the store donated 10 percent of customers’ purchases when they presented a special coupon.
+After a push from students earlier this year, Associated Students UCLA agreed to give up to $6,000 in late January, said Bob Williams, ASUCLA’s executive director. 
+
+During the first week of February, the store donated 10 percent of customers’ purchases when they presented a special coupon.
 
 ASUCLA kept its promise. Students spent $60,000 for the cause, hitting the $6,000 cap within two days, Williams said.
 
 Students had no control over the money once it left their hands – the spending was left to relief organizations both international and local in scope. 
 
-**Where the Money Went**
+**Directing relief**
 
 {% figure_img vertical 0 %}
 
@@ -43,11 +45,11 @@ The money bought seeds for gardens where displaced people grow their own food, w
 
 While NAFCON and People’s CORE both prioritized emergency aid, People’s CORE also sent clothing and supplies donated by L.A. residents to the Philippines.
 
-This aid was sorely needed in the immediate aftermath of the typhoon. People were without food for days, and sometimes the only source of nutrition was the fish swimming alongside drowning victims in the ocean, residents said.
+This aid was sorely needed in the immediate aftermath of the typhoon. People were without food for days, and sometimes the only source of nutrition was the fish swimming alongside corpses in the ocean, residents said.
 
 “It’s hard to catch a fish swimming with dead bodies,” said local government official Gregorio Lantajo Jr. “Then you have to eat it. It’s hard.”
 
-In the barangay, or small village, of San Joaquin about nine miles outside Tacloban, many more would have died without the intervention of international aid agencies like those funded in part by UCLA students, that brought rice, sardines, noodles and tents, Lantajo said. 
+In the barangay, or small village, of San Joaquin about nine miles outside Tacloban, many more would have died without the intervention of international aid agencies, like those funded in part by UCLA students, that brought rice, sardines, noodles and tents, Lantajo said. 
 
 Maharlika Gastones’ family lost everything to the floodwaters. Her family needed clothing right after the storm, along with gasoline, food and water. 
 
@@ -61,23 +63,23 @@ Until relief stabilized access to basic necessities, people were forced to find 
 
 But months later, when food and shelter were easier to come by, the typhoon survivors needed another kind of relief effort – an investment in long-term recovery focused on rebuilding homes and livelihoods for people who lost everything in the storm. Student donations contributed to both types of aid.
 
-**Spending Strategies**
+**L.A. connections, global implications**
 
 International aid organizations focus on monetary donations that can buy emergency supplies after a disaster, but local relief groups tend to target their grants toward a systemic problem in the area, such as housing, sanitation or food security. 
 
 But for both types of organizations, sending aid to a foreign nation isn’t without its challenges. 
 
-Vicki Penwell, the owner and cofounder of Mercy In Action,a group of midwives based in the Philippines that helped victims of the typhoon deliver babies, said shipments of medical supplies intended to help healthcare providers treat typhoon victims were stuck in customs for more than 10 months after Typhoon Yolanda. 
+Vicki Penwell, the owner and cofounder of Mercy in Action, a group of midwives based in the Philippines that helped victims of the typhoon deliver babies, said shipments of medical supplies intended to help healthcare providers treat typhoon victims were stuck in customs for more than 10 months after Typhoon Yolanda. 
 
 In a stroke of luck for the volunteers who wanted to be part of an immediate relief response after the storm, the National Alliance for Filipino Concerns was already involved in relief work in the Visayan Islands of the Philippines because of an earthquake that had shaken the island of Bohol a month before the typhoon, said spokesman Jun Cruz.
 
 The existing infrastructure allowed the National Alliance for Filipino Concerns to immediately funnel donations toward direct relief for hard-to-reach and deeply affected communities, Cruz added.
 
-By focusing on monetary donations, the National Alliance for Filipino Concerns said it circumvented bureaucratic roadblocks. The monetary donations were allocated to three types of aid: relief packs, doctors and health services and psychosocial intervention, Cruz said. 
+By focusing on monetary donations, the National Alliance for Filipino Concerns said it circumvented bureaucratic roadblocks. The monetary donations were allocated to three types of aid: relief packs, doctors and health services, and psychosocial intervention, Cruz said. 
 
 Although there were no official audits of charitable donations to the Philippines in the wake of Typhoon Yolanda, many of the groups UCLA students donated to say every dollar went to helping victims of the typhoon. To accomplish this feat, some groups said they relied on volunteer work to reduce overhead costs.
 
-People’s CORE said it made sending the full amount donated toward relief to the Philippines a priority. The organization’s seven staff members worked on the group’s relief drive on a volunteer basis alongside about 20 community volunteers, collecting monetary donations, clothing and other basic supplies to send to the Philippines. The National Alliance for Filipino Concerns is also run by volunteers.
+People’s CORE said it made sending the full amount donated toward relief to the Philippines a priority. The organization’s seven staff members worked on the group’s relief drive on a voluntary basis alongside about 20 community volunteers, collecting monetary donations, clothing and other basic supplies to send to the Philippines. The National Alliance for Filipino Concerns is also run by volunteers.
 
 People’s CORE had ties to UCLA’s Samahang Pilipino before the typhoon, which was a factor in the $4,000 donation it received from the club, said program manager Christine Araquel-Concordia. The two organizations have teamed up to mentor high school students in Historic Filipinotown in Los Angeles. 
 
@@ -87,7 +89,7 @@ Similarly, members of Samahang Pilipino said they have worked with the National 
 
 Donations through People’s CORE went to relief organizations like UNICEF and some grassroots organizations that were prepared to distribute immediate aid in the first few months after the disaster, Araquel-Concordia said. 
 
-**Local Solutions**
+**International concern and local solutions**
 
 The third organization UCLA students donated to, GlobalGiving, focused on funding local efforts to address lasting problems caused by the typhoon, such as access to fresh water and food, availability of housing and the ability to earn a steady income. 
 
