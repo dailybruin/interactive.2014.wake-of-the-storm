@@ -3,7 +3,7 @@ layout: story
 title: Harvesting Hope
 slug: harvesting-hope
 date: 8 October 2014
-author: Katie Shepherd
+byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 cover: story/story3.1.jpg
 cover_caption: Lorem ipsum dolor sit amet consectectur adspicing elit sed do eisumod.
 story_location: Leyte, Philippines

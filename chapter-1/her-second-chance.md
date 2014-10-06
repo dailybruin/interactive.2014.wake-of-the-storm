@@ -3,7 +3,7 @@ layout: story
 title: Her Second Chance
 slug: her-second-chance
 date: 6 October 2014
-author: Katie Shepherd
+byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 featured_image: story/her-second-chance-1.jpg
 cover: story/her-second-chance-1.jpg
 cover_caption: Nerissa Cumpio sits in the recovery room of her newly built birth center, which was partially supported by UCLA student donations, 10 months after Typhoon Yolanda. (Photo by Neil Bedi)

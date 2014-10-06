@@ -9,7 +9,7 @@ layout: narrow
                 <div class="story-intro{% if page.cover %} has-cover{% endif %}">
                     <h2>{{ page.title }}</h2>
                     <div class="article-info">
-                        <span class="author">By {{ page.author }}</span>
+                        <span class="author">{{ page.byline }}</span>
                         <span class="separator">&bull;</span>
                         <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%B %-d, %Y"}}</time>
                     </div>

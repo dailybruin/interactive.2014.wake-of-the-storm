@@ -3,7 +3,7 @@ layout: story
 title: A Network of Support
 slug: a-network-of-support
 date: 6 October 2014
-author: Katie Shepherd
+byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 featured_images: story/a-network-of-support-1.jpg
 cover: story/a-network-of-support-1.jpg
 cover_caption: Samahang Pilipino sold bracelets and shirts printed with its 2014 campaign slogan “Bayanihan,” which means “the spirit of communal unity to achieve a common objective.” (Photo by Neil Bedi)
