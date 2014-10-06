@@ -52,8 +52,7 @@
   #nameplate {
     display: block;
     width: 100%;
-    bottom: 10px;
-    position: absolute;
+    margin: 20px 10px;
   }
   #current-location-legend {
     top: 120px;
@@ -71,9 +70,16 @@
     width: 25%;
     nav {
       display: block;
+      h2 {
+        border-bottom: none;
+        font-size: 0.75em;
+        line-height: 0.5em;
+        margin-bottom: 7px;
+        margin-top: 25px;
+      }
       .nav-item {
         margin-left: -0.9375em;
-        width: calc(100% + (0.9375em * 2));
+        width: calc(100% + (0.9375em * 2) + 1px);
         padding: 8px 12px;
         text-align: right;
       }
