@@ -6,7 +6,6 @@ layout: narrow
         <header>
             {% if page.cover %}
             <div id="cover" style="background-image: url({{ site.url }}/assets/images/{{ page.cover }})">
-                <div class="caption">{{ page.cover_caption }}</div>
                 <div class="story-intro{% if page.cover %} has-cover{% endif %}">
                     <h2>{{ page.title }}</h2>
                     <div class="article-info">
@@ -19,10 +18,14 @@ layout: narrow
             {% endif %}
         </header>
         <div class="entry drop-cap {% if page.cover %}has-cover{% endif %}">
+            {% if page.cover_caption %}
+                <div class="cover-caption"><strong>Above:</strong> {{ page.cover_caption }}</div>
+            {% endif %}
+            {% if page.story_location %}
             <figure class="story-location">
-                <figcaption>{{ page.story_location }}</figcaption>
-                <img src="{{ site.url }}/assets/images/story/{{ page.story_location_map }}"/>
+                <img alt="{{page.story_location}}" src="{{ site.url }}/assets/images/maps/{{ page.story_location_map }}"/>
             </figure>
+            {% endif %}
             {{ content }}
         </div>
     </div>

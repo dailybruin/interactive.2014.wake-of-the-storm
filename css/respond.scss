@@ -39,6 +39,16 @@
     figure {
       margin-left: -16.66667%;
       margin-right: -16.66667%;
+      &.vertical {
+          width: 70%;
+          float: right;
+          margin-left: 10px;
+          &.left {
+            float: left;
+            margin-right: 10px;
+            margin-left: -16.66667%;
+          }
+      }
     }
     figcaption {
       padding-top: 0;
@@ -82,7 +92,6 @@
     top: 0;
     bottom: 0;
     overflow-y: auto;
-    border: 1px solid rgba(0,0,0,0.1);
     nav {
       display: block;
       .nav-item {
