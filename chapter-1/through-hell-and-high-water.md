@@ -4,6 +4,7 @@ title: Through Hell and High Water
 slug: through-hell-and-high-water
 date: 6 October 2014
 author: Katie Shepherd
+featured_image: story/through-hell-and-high-water-1.jpg
 cover: story/through-hell-and-high-water-1.jpg
 cover_caption: Gregorio Lantajo Jr. recalls the chaos after Typhoon Yolanda, which tore through his barangay, or village, killing 377 and leveling hundreds of homes. Lantajo is a community leader from one of the hardest-hit areas. (Photo by Neil Bedi)
 story_location: Tacloban, Philippines
