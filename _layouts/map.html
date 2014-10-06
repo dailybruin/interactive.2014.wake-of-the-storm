@@ -1,10 +1,12 @@
 {% include header.html %}
 
-{% include sidebar.html %}
+<div class="row">
+    {% include sidebar.html %}
 
-<div id="main-content" class="current-location-wrap">
-    {{ content }}
-</div><!-- /main-content -->
+    <div id="main-content" class="large-8 columns current-location-wrap">
+        {{ content }}
+    </div><!-- /main-content -->
+</div>
 
 {% include load_js.html %}
 <script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>

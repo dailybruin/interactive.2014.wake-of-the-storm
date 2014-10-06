@@ -1,16 +1,17 @@
 {% include header.html %}
 
-{% include sidebar.html %}
+<div class="row">
+    {% include sidebar.html %}
 
-<div id="main-content">
-    <div class="row">
-        <div class="small-12 columns">
-            {{ content }}
+    <div id="main-content" class="large-9 columns">
+        <div class="row">
+            <div class="small-12 columns">
+                {{ content }}
+            </div>
         </div>
-    </div>
-    {% include footer-credits.html %}
-</div><!-- /main-content -->
-
+        {% include footer-credits.html %}
+    </div><!-- /main-content -->
+</div>
 
 {% include load_js.html %}
 

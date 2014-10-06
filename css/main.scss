@@ -4,6 +4,7 @@
 /* Copyright Daily Bruin 2014 */
 
 $purple_primary: #515791;
+$purple_primary_rgb: "81, 87, 145";
 
 p {
   font-family: Georgia, serif;
@@ -166,9 +167,6 @@ figcaption {
     left: 0;
     padding-left: 0;
   }
-  .columns {
-    position: static;
-  }
 }
 
 #nameplate {
@@ -243,7 +241,6 @@ figcaption {
       font-size: 0.8rem;
       color: #555;
       text-align: right;
-      margin-right: 12px;
       cursor: default;
     }
   }
@@ -264,7 +261,7 @@ figcaption {
       background-color: rgba(0,0,0, 0.05);
     }
     &.active {
-      background-color: rgba(0,0,0, 0.1);
+      background-color: rgba(81, 87, 145, 0.1);
       border-right: 4px solid $purple_primary;
       font-weight: bold;
     }
