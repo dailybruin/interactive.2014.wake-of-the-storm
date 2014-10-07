@@ -6,16 +6,16 @@ date: 6 October 2014
 byline: Story by Katie Shepherd, photos by Neil Bedi, graphics by Byron Lutz
 featured_image: story/her-second-chance-1.jpg
 cover: story/her-second-chance-1.jpg
-cover_caption: Nerissa Cumpio sits in the recovery room of her newly built birth center, which was partially supported by UCLA student donations, 10 months after Typhoon Yolanda. (Photo by Neil Bedi)
+cover_caption: Nerissa Cumpio sits in the recovery room of her newly built birth center, which was partially supported by UCLA student donations, 10 months after Typhoon Yolanda.
 story_location: Tanauan, Philippines
 story_location_map: inset-map-tanauan.jpg
 image:
     - url: story/her-second-chance-4.jpg
-      caption: Nerissa Cumpio and her husband lived in a tent after their home was destroyed in Typhoon Yolanda. The tent still stands on their property, serving as a storage unit as they rebuild their lives, home and clinic. (Photo by Neil Bedi)
+      caption: Nerissa Cumpio and her husband lived in a tent after their home was destroyed in Typhoon Yolanda. The tent still stands on their property, serving as a storage unit as they rebuild their lives, home and clinic.
     - url: story/her-second-chance-3.jpg
-      caption: The new birth clinic was sponsored by several aid agencies, including Global Giving which received money from the UCLA community in the months following the storm. (Photo by Neil Bedi)
+      caption: The new birth clinic was sponsored by several aid agencies, including Global Giving which received money from the UCLA community in the months following the storm.
     - url: story/her-second-chance-2.jpg
-      caption: Nerissa Cumpio points out her newly built facility to guests at the clinic’s grand opening on Sept. 16. The birth clinic provides midwifery services and preventative care for free. (Photo by Neil Bedi)
+      caption: Nerissa Cumpio points out her newly built facility to guests at the clinic’s grand opening on Sept. 16. The birth clinic provides midwifery services and preventative care for free.
 ---
 
 TANAUAN, Philippines — Only the floor of the clinic was left, surrounded by wet piles of rubble left after several 16-foot waves devastated the coastal town. 
