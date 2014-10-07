@@ -35,6 +35,16 @@
 
 /* Large screens */
 @media only screen and (min-width: 64.063em) {
+  .infobox {
+    width: 50%;
+    margin-right: -16.6667%;
+    float: right;
+    &.full-width {
+      width: 100%;
+      margin-right: 0;
+      float: none;
+    }
+  }
   .cover-caption {
     left: -16.6667%;
     width: calc(100% + 33.3334%);
@@ -59,6 +69,11 @@
     figure {
       margin-left: -16.66667%;
       margin-right: -16.66667%;
+      &.centered {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+      }
       &.vertical {
           width: 70%;
           float: right;

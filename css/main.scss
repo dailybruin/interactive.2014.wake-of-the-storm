@@ -425,6 +425,24 @@ figcaption {
   opacity: 0.8;
 }
 
+.infobox {
+  background-color: rgba(0,0,0,0.05);
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+}
+.source {
+  font-size: 0.8em;
+  line-height: 126%;
+  font-weight: bold;
+  display: block;
+}
+
 .entry {
   .editors-note {
     font-family: "Helvetica Neue", helvetica, arial, sans-serif;
