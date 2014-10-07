@@ -79,6 +79,10 @@ Every resident in San Joaquin lost his or her home, and about 10 percent of the 
 
 “Every day I had to pull out dead bodies and bury them in a mass grave,” Lantajo said with tears in his eyes. His father was one of the casualties of the storm, and his body wasn’t recovered until four days after it. 
 
+<div class="flex-video">
+<iframe width="560" height="315" src="//www.youtube.com/embed/i-034Ork0GM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Lantajo said he personally recovered more than 70 bodies, and the barangay buried 377 people in a mass grave in front of a church. 
 
 Many problems still remain unsolved 11 months after the typhoon. 
