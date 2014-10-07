@@ -50,37 +50,48 @@ function getIndividual(record) {
 
 function setListeners() {
     var form = $("#grave-controls");
-    form.find("#grave-form-name").keydown(setFilters);
-    form.find("#grave-form-age-from").keydown(setFilters);
-    form.find("#grave-form-age-to").keydown(setFilters);
+    form.find("#grave-form-name").keyup(setFilters);
+    form.find("#grave-form-age-from").keyup(setFilters);
+    form.find("#grave-form-age-to").keyup(setFilters);
+
+    form.find("#grave-form-name").on("input", setFilters);
+    form.find("#grave-form-age-from").on("input", setFilters);
+    form.find("#grave-form-age-to").on("input", setFilters);
 }
 
 function setFilters() {
-    console.log("setFilters");
-    $("#grave").empty()
-    var ageMin = $("#grave-form-age-from").val()
-    var ageMax = $("#grave-form-age-to").val()
-    var name = $("#grave-form-name").val()
-    draw(ORIGINAL_DATA.filter(function(a){
-        var remove = false
-        if(name != undefined) {
-            if(a.name.indexOf(name) < 0) {
-                remove = true;
+    var filterAgeMin = $("#grave-form-age-from").val()
+    var filterAgeMax = $("#grave-form-age-to").val()
+    var filterName = $("#grave-form-name").val()
+    console.log(filterAgeMin);
+    console.log(filterAgeMax);
+    $("#grave .grave-record").each(function(index) {
+        var name = $(this).data("name");
+        var age = $(this).data("ageYears");
+        var omit = false;
+        if(filterName != undefined && filterName != "") {
+            if(name.toLowerCase().indexOf(filterName.toLowerCase()) < 0) {
+                omit = true;
             }
         }
-        var ageYears = TYPHOON_DATE.diff(moment(a.dob), "years");
-        if(ageMin != undefined) {
-            if(ageYears < ageMin) {
-                remove = true;
+        if(parseInt(filterAgeMin)) {
+            if(age < filterAgeMin) {
+                omit = true;
             }
         }
-        if(ageMax != undefined) {
-            if(ageYears > ageMax) {
-                remove = true;
+        if (parseInt(filterAgeMax)) {
+            if(age > filterAgeMax) {
+                omit = true;
             }
         }
-        return !remove;
-    }));
+            
+        if(omit) {
+            $(this).hide();
+        }
+        else {
+            $(this).show();
+        }
+    });
 }
 
 function draw(data) {
