@@ -1,2 +1,2 @@
 RedirectMatch ^/current-location((/index.html)|/)?$ /map
-RedirectMatch ^/?$ /chapter-1/through-hell-and-high-water
+RedirectMatch ^/?$ /chapter-2/amid-destruction-midwives-bring-life
