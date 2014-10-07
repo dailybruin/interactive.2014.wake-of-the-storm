@@ -35,6 +35,16 @@
 
 /* Large screens */
 @media only screen and (min-width: 64.063em) {
+  .correction {
+    margin-left: -26.6667%;
+    width: 24.667%;
+    float: left;
+    font-size: 0.75em;
+    line-height: 140%;
+    text-align: right;
+    margin-top: 50px;
+    padding: 0;
+  }
   .grave-record {
     height: 300px;
   }

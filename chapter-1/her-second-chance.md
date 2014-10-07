@@ -18,6 +18,8 @@ image:
       caption: Nerissa Cumpio points out her newly built facility to guests at the clinic’s grand opening on Sept. 16. The birth clinic provides midwifery services and preventative care for free.
 ---
 
+<div class="correction"><strong>Correction:</strong> The original version of this article contained an error and has been changed. See the bottom of the article for more information.</div>
+
 TANAUAN, Philippines — Only the floor of the clinic was left, surrounded by wet piles of rubble left after several 16-foot waves devastated the coastal town. 
 
 Nerissa Cumpio said she survived by evacuating to her grandmother’s home 4 kilometers inland, but her home and her midwife clinic in Tanauan were completely leveled by the storm surges that accompanied Typhoon Yolanda last November. 
@@ -76,7 +78,7 @@ But there was very little Cumpio and her husband could do to recoup their home w
 
 “It’s impossible to start here. No job, no relief,” she said. “We have to go back, because we will die here.”
 
-They bought a ticket to return to Manila. Just as giving up hope seemed to be their only option, Cumpio received a text asking if she would like a job volunteering as a midwife in the disaster zone. 
+They bought a ticket to return to Manila. Just as giving up hope seemed to be their only option, Cumpio received a text asking if she would like a job as a midwife in the disaster zone. 
 
 Without thinking, she accepted. 
 
@@ -86,9 +88,9 @@ Cumpio went to work with Mercy in Action a few hours north of her home. As it tu
 
 When she showed up for work, she met Vicki Penwell for the first time. Penwell founded the organization, which helps women deliver babies in underserved areas of the Philippines. 
 
-Months after the typhoon, things were still looking bleak for Cumpio. She had a volunteer job, but her own clinic was still just a pile of debris. 
+Months after the typhoon, things were still looking bleak for Cumpio. She had a temporary job, but her own clinic was still just a pile of debris. 
 
-She couldn’t make a livelihood out of volunteer work. 
+She couldn’t make a livelihood out of temporary work. 
 
 In March, Penwell sent Cumpio another text that would change her life.
 
@@ -107,3 +109,5 @@ Each room was painted a pastel yellow, green or purple. A tall wooden cabinet in
 “During the disaster, you can see the goodness of other people, even if they have different cultures and different beliefs,” Cumpio said.
 
 The new clinic serves any woman who comes to deliver her baby. In the spirit of paying it forward, all of Cumpio’s services are free. ■
+
+***Correction:** Cumpio was paid for her work with Mercy in Action through a cash-for-work program.*
