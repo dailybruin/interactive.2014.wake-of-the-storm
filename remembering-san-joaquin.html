@@ -5,4 +5,31 @@ layout: grave
 ---
 <span class="grave-title">Remembering San Joaquin</span>
 <span class="grave-subtitle">Just south of Tacloban City, 377 people died in San Joaquin Barangay. The community has a population of under 3000. The bodies were buried in a mass grave in front of the barangay's church.</span>
-<div id="grave"></div>
+<div id="grave-controls" class="row">
+    <div class="large-1 columns">
+        <label for="grave-form-name" class="right inline">Name</label>
+    </div>
+    <div class="large-5 columns">
+        <input type="text" placeholder="Search for a name" id="grave-form-name" name="grave-form-name" />
+    </div>
+    <div class="large-1 columns">
+        <label for="grave-form-age-from" class="right inline">Age</label>
+    </div>
+    <div class="large-5 columns">
+        <div class="row">
+            <div class="large-4 columns">
+                <input type="number" placeholder="0" id="grave-form-age-from" name="grave-form-age-from" />
+            </div>
+            <div class="large-1 columns">
+                <label class="inline">to</label>
+            </div>
+            <div class="large-4 columns">
+                <input type="number" placeholder="100" id="grave-form-age-to" />
+            </div>
+            <div class="large-3 columns">
+                <label class="inline">years old</label>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="grave" class="row"></div>
