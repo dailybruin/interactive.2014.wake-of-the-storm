@@ -120,6 +120,8 @@ Most women had difficult births because of the stress their bodies and minds und
 
 Some patients still text her and Bunquin, sending updates about their babies, who are thriving despite the difficulties after the typhoon. 
 
+<div class="flex-video"><iframe width="560" height="315" src="//www.youtube.com/embed/pYXRPqcLevU" frameborder="0" allowfullscreen></iframe></div>
+
 It’s been nearly nine months since Celeste and Bunquin left their relief work in Dulag, but Leyte remains a disaster zone in their minds.
 
 {% figure_img 3 caption %}
