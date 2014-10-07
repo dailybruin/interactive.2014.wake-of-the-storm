@@ -1,7 +1,7 @@
 ---
 ---
 (function() {
-$.get("{{ site.url }}/assets/san-joaquin.json", null, function(data) { 
+$.getJSON("{{ site.url }}/assets/san-joaquin.json", null, function(data) { 
     ORIGINAL_DATA = data;
     draw()
 });
