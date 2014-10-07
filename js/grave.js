@@ -1,11 +1,15 @@
 ---
 ---
 (function() {
-$.get("{{ site.url }}/assets/san-joaquin.json", null, draw);
+$.get("{{ site.url }}/assets/san-joaquin.json", null, function(data) { 
+    ORIGINAL_DATA = data;
+    draw()
+});
 
 var TYPHOON_DATE = moment("November 8, 2013");
 var TYPHOON_DATE_FORMATTED = moment("November 8, 2013").format("MMM. D, YYYY");
 
+var ORIGINAL_DATA = undefined;
 
 function getIndividual(record) {
     var cont = $("<div class='large-3 small-12 columns grave-record'>");
@@ -38,14 +42,56 @@ function getIndividual(record) {
         }
         
     }
+    cont.data("name", record.name);
+    cont.data("dob", record.dob);
+    cont.data("ageYears", ageYears);
     return cont;
 }
 
+function setListeners() {
+    var form = $("#grave-controls");
+    form.find("#grave-form-name").keydown(setFilters);
+    form.find("#grave-form-age-from").keydown(setFilters);
+    form.find("#grave-form-age-to").keydown(setFilters);
+}
+
+function setFilters() {
+    console.log("setFilters");
+    $("#grave").empty()
+    var ageMin = $("#grave-form-age-from").val()
+    var ageMax = $("#grave-form-age-to").val()
+    var name = $("#grave-form-name").val()
+    draw(ORIGINAL_DATA.filter(function(a){
+        var remove = false
+        if(name != undefined) {
+            if(a.name.indexOf(name) < 0) {
+                remove = true;
+            }
+        }
+        var ageYears = TYPHOON_DATE.diff(moment(a.dob), "years");
+        if(ageMin != undefined) {
+            if(ageYears < ageMin) {
+                remove = true;
+            }
+        }
+        if(ageMax != undefined) {
+            if(ageYears > ageMax) {
+                remove = true;
+            }
+        }
+        return !remove;
+    }));
+}
+
 function draw(data) {
+    if(data == undefined) {
+        data = ORIGINAL_DATA
+    }
     var el = $("#grave")
     for(var i = 0; i < data.length; i++) {
         var record = data[i];
         el.append(getIndividual(record));
     }
+    setListeners()
 }
 })();
