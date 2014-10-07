@@ -35,6 +35,26 @@
 
 /* Large screens */
 @media only screen and (min-width: 64.063em) {
+  .cover-caption {
+    left: -16.6667%;
+    width: calc(100% + 33.3334%);
+    padding-left: 1.1875rem;
+  }
+  .entry {
+    .editors-note {
+      margin-left: -16.6667%;
+      margin-right: -16.6667%;
+      .editors-note-columns {
+        column-count: 2;
+        -webkit-column-count: 2;
+      -moz-column-count: 2;
+    }
+    }
+  }
+  blockquote {
+    padding-left: 44px;
+    margin-left: -16.6667%;
+  }
   .entry {
     figure {
       margin-left: -16.66667%;

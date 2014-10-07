@@ -12,13 +12,12 @@ p {
 blockquote {
   border: none;
   position: relative;
-  padding-left: 44px;
   font-family: Georgia, serif;
   color: black;
   font-size: 1.3rem;
   display: block;
-  margin-left: -16.6667%;
   margin-bottom: 50px;
+  padding-left: 42px;
   .blockquote-attribution {
     float: right;
     font-size: 0.9em;
@@ -419,8 +418,6 @@ figcaption {
 
 .cover-caption {
   position: relative;
-  left: -16.6667%;
-  width: calc(100% + 33.3334%);
   margin-bottom: 25px;
   font-size: 0.8rem;
   line-height: 1rem;
@@ -430,18 +427,11 @@ figcaption {
 
 .entry {
   .editors-note {
-    margin-left: -16.6667%;
-    margin-right: -16.6667%;
     font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-    background-color: rgba(81, 87, 145, 0.1);
+    background-color: rgba(0,0,0,0.02);
     margin-bottom: 30px;
-    padding: 10px;
-    padding-top: 3px;
-    .editors-note-columns {
-      column-count: 2;
-      -webkit-column-count: 2;
-      -moz-column-count: 2;
-    }
+    padding: 20px;
+    padding-top: 8px;
     h3 {
         font-weight: bold;
         font-size: 1.2em;
@@ -449,9 +439,10 @@ figcaption {
     }
     p {
       font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-      font-size: 0.85rem;
-      line-height: 0.95rem;
+      font-size: 0.8rem;
+      line-height: 1rem;
       margin-bottom: 10px;
+      opacity: 0.9;
     }
   }
 }
