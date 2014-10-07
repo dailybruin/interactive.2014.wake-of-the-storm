@@ -13,7 +13,7 @@ image:
     - url: story/her-second-chance-4.jpg
       caption: Nerissa Cumpio and her husband lived in a tent after their home was destroyed in Typhoon Yolanda. The tent still stands on their property, serving as a storage unit as they rebuild their lives, home and clinic.
     - url: story/her-second-chance-3.jpg
-      caption: The new birth clinic was sponsored by several aid agencies, including Global Giving which received money from the UCLA community in the months following the storm.
+      caption: The new birth clinic was sponsored by several aid agencies, including GlobalGiving, which received money from the UCLA community in the months following the storm.
     - url: story/her-second-chance-2.jpg
       caption: Nerissa Cumpio points out her newly built facility to guests at the clinic’s grand opening on Sept. 16. The birth clinic provides midwifery services and preventative care for free.
 ---
