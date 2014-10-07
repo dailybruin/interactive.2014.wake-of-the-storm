@@ -35,6 +35,9 @@
 
 /* Large screens */
 @media only screen and (min-width: 64.063em) {
+  .grave-record {
+    height: 300px;
+  }
   .infobox {
     width: 50%;
     margin-right: -16.6667%;
