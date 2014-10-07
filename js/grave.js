@@ -16,11 +16,10 @@ function getIndividual(record) {
     var el = $("<div class='grave-record-inner'>");
     el.appendTo(cont);
     if(record.image != undefined) {
-        cont.prepend("<img src='{{ site.url }}/assets/images/grave/"+record.image+".jpg'>")
+        cont.prepend("<a href='{{site.url}}/assets/images/grave/"+record.image+".jpg'><img src='{{ site.url }}/assets/images/grave/"+record.image+".jpg'></a>");
     }
     el.append("<span class='name'>"+record.name+"</span>");
     if(record.dob != undefined && record.dob != "") {
-        console.log(record.dob);
         // DOB
         var dates = $("<div class='dates'>")
         var dob = moment(record.dob)
@@ -111,5 +110,7 @@ function draw(data) {
     }
     setListeners();
     setFilters();
+    $(".grave-record a").fancybox();
+    $(".grave-record a").click(function(e) { e.preventDefault(); });
 }
 })();
