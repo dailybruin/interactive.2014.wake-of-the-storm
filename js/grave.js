@@ -19,7 +19,8 @@ function getIndividual(record) {
         cont.prepend("<img src='{{ site.url }}/assets/images/grave/"+record.image+".jpg'>")
     }
     el.append("<span class='name'>"+record.name+"</span>");
-    if(record.dob != undefined) {
+    if(record.dob != undefined && record.dob != "") {
+        console.log(record.dob);
         // DOB
         var dates = $("<div class='dates'>")
         var dob = moment(record.dob)
@@ -31,7 +32,11 @@ function getIndividual(record) {
         // Age
         var ageYears = TYPHOON_DATE.diff(dob, "years");
         var ageMonths = TYPHOON_DATE.diff(dob, "months") % 12;
-        if(ageYears == 0) {
+        var ageDays = TYPHOON_DATE.diff(dob, "days");
+        if(ageYears == 0 && ageMonths == 0) {
+            el.append("<span class='age'>"+ageDays+" days old</span>");
+        }
+        else if(ageYears == 0) {
             el.append("<span class='age'>"+ageMonths+" months old</span>");
         }
         else if(ageYears < 2 && ageMonths > 0) {
@@ -63,8 +68,7 @@ function setFilters() {
     var filterAgeMin = $("#grave-form-age-from").val()
     var filterAgeMax = $("#grave-form-age-to").val()
     var filterName = $("#grave-form-name").val()
-    console.log(filterAgeMin);
-    console.log(filterAgeMax);
+    var visibleCount = 0;
     $("#grave .grave-record").each(function(index) {
         var name = $(this).data("name");
         var age = $(this).data("ageYears");
@@ -75,12 +79,12 @@ function setFilters() {
             }
         }
         if(parseInt(filterAgeMin)) {
-            if(age < filterAgeMin) {
+            if(age < filterAgeMin || age == undefined) {
                 omit = true;
             }
         }
         if (parseInt(filterAgeMax)) {
-            if(age > filterAgeMax) {
+            if(age > filterAgeMax || age == undefined) {
                 omit = true;
             }
         }
@@ -90,8 +94,10 @@ function setFilters() {
         }
         else {
             $(this).show();
+            visibleCount += 1;
         }
     });
+    $("#grave-info > .number").text(visibleCount);
 }
 
 function draw(data) {
@@ -103,6 +109,7 @@ function draw(data) {
         var record = data[i];
         el.append(getIndividual(record));
     }
-    setListeners()
+    setListeners();
+    setFilters();
 }
 })();
