@@ -9,6 +9,41 @@ p {
   font-family: Georgia, serif;
 }
 
+blockquote {
+  border: none;
+  position: relative;
+  padding-left: 44px;
+  font-family: Georgia, serif;
+  color: black;
+  font-size: 1.3rem;
+  display: block;
+  margin-left: -16.6667%;
+  margin-bottom: 50px;
+  .blockquote-attribution {
+    float: right;
+    font-size: 0.9em;
+    position: relative;
+    top: 12px;
+    left: -27px;
+  }
+  &:before, &:after {
+    font-family: Georgia, serif;
+    position: absolute;
+    font-size: 4em;
+  }
+  &:before {
+    content: '“';
+    float: left;
+    top: -18px;
+    left: -1px;
+  }
+  &:after {
+    content: "”";
+    position: absolute;
+    right: 0;
+  }
+}
+
 figure {
   margin: 0;
 }

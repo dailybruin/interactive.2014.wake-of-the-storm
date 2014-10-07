@@ -54,6 +54,8 @@ This aid was sorely needed in the immediate aftermath of the typhoon. People wer
 
 In the barangay, or small village, of San Joaquin about nine miles outside Tacloban, many more would have died without the intervention of international aid agencies, like those funded in part by UCLA students, that brought rice, sardines, noodles and tents, Lantajo said. 
 
+<blockquote>It’s hard to catch a fish swimming with dead bodies. Then you have to eat it. It’s hard.” <span class="blockquote-attribution">—Gregorio Lantajo Jr.</span></blockquote>
+
 Maharlika Gastones’ family lost everything to the floodwaters. Her family needed clothing right after the storm, along with gasoline, food and water. 
 
 So many people were left without any resources that looting started very quickly once the water had subsided.
@@ -65,6 +67,8 @@ People only took what they needed, Gastones said. They would find someone who co
 Until relief stabilized access to basic necessities, people were forced to find other ways to survive, Gastones said. 
 
 But months later, when food and shelter were easier to come by, the typhoon survivors needed another kind of relief effort – an investment in long-term recovery focused on rebuilding homes and livelihoods for people who lost everything in the storm. Student donations contributed to both types of aid.
+
+<blockquote>It was the best of times because the Filipino resilience came to the forefront. But it was also the worst of times because it was undignified to be stealing. But we had no choice.” <span class="blockquote-attribution">—Maharlika Gastones</span></blockquote>
 
 **L.A. connections, global implications**
 

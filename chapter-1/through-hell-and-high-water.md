@@ -45,6 +45,8 @@ The typhoon struck hardest on the islands of Leyte and Samar in the central Phil
 
 Typhoon Yolanda is one of the strongest typhoons on record and killed more than 6,200 people, according to the official death toll tallied by the Philippine government. Almost 2,000 people are still missing.
 
+<blockquote>Just seconds more and I could have lost one of my children. If I was not alert, I could have lost them. <span class="blockquote-attribution">—Algina Lacaba</span></blockquote>
+
 The government sent out warnings and the news channels broadcast reports of the super typhoon barreling toward Leyte, but many residents did not expect the storm to cause the damage or death that it did. 
 
 “Some people took it for granted,” Lacaba said. “We evacuated, but still when the water rose, many people died.”
@@ -58,6 +60,8 @@ Dead bodies inside the Lacabas’ first evacuation center forced the family to m
 “I see my neighbor was drowned, floating around the elementary,” Lacaba said. “There are many dead people that we see.”
 
 Yolanda had also taken the road, making it impossible for anyone to access the San Joaquin area to provide emergency relief in the days following the typhoon. 
+
+<blockquote>Isolation was so hard. We had to drink water that was contaminated. We had to eat rice that was old and starting to smell.” <span class="blockquote-attribution">—Gregorio Lantajo Jr.</span></blockquote>
 
 A few kilometers south of Tacloban, Gregorio Lantajo Jr. waited for the water to recede from his community so that he could assess the heavy damage to the San Joaquin barangay, or village.
 
@@ -86,6 +90,8 @@ Aid organizations, helped by funds sent by UCLA students, provided food, clean w
 Some families still live in tents provided by the U.N. refugee agency, which were intended as emergency housing. The fading tents were only meant to last six months, and the now-flimsy structures are hot in the morning, cold at night and flood in the rain.
 
 Others have moved into temporary housing made of woven bamboo sheets. The Lacaba family lives in one of these homes now. The one-room shack is part of a community of similar housing units that keeps typhoon victims dry and allows them to work on obtaining a permanent home. 
+
+<blockquote>The government is asking, ‘What is your preparation? Why so many casualties? I turn the question around on them. Why does it take more than five days (to get aid) and not from the government, from the NGOs?” <span class="blockquote-attribution">—Gregorio Lantajo Jr. </span></blockquote>
 
 The government and other organizations provide the land and resources to construct the houses, and the future residents supply the manpower. Families must invest 500 hours of labor working on their permanent housing development, a practice known as “sweat equity,” before they are permitted to move in. These homes will have bathrooms, and will be made from concrete and wired for electricity. 
 

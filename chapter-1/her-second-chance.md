@@ -34,6 +34,8 @@ To get to her former home, she climbed a mountain of debris and saw dead people 
 
 “It was impossible to start again,” Cumpio said. “It was hard, even just to clean the rubble.”
 
+<blockquote>It was like it was bombed. It was like we were on another planet. Is this Earth?” <span class="blockquote-attribution">—Nerissa Cumpio</span></blockquote>
+
 Her two daughters couldn’t understand the situation. Amid the total destruction, the girls, 4 and 8, asked for milk. 
 
 But there was no milk. There wasn’t even clean water. 
@@ -49,6 +51,8 @@ While waiting in a long line for water and rice rations, people chatted and made
 It was a small joke because the women’s makeup had been washed away.
 
 When her family cooked its rice, it didn’t taste right, Cumpio said. The water was salty and made the rice taste strange. The ocean had contaminated the supplies of fresh water, and the problem persisted for days after the storm.
+
+<blockquote>The first week was very hard. Yes, you survived the storm surge – but what now?” <span class="blockquote-attribution">—Nerissa Cumpio</span></blockquote>
 
 Just over a week after the typhoon, Cumpio’s 8-year-old daughter told her parents that her chest hurt. Worried that something had hit her during the storm, Cumpio examined her daughter for bruises or cuts, but there were no injuries.
 
@@ -67,6 +71,8 @@ While waiting in line for a tent from the United Nations Refugee Agency weeks af
 The Cumpios, with just their floor, qualified for a tent. 
 
 But there was very little Cumpio and her husband could do to recoup their home without work or resources. She was contemplating going back to Manila. 
+
+<blockquote>I just accept what is there. You don’t have a choice. The situation decides for you.” <span class="blockquote-attribution">—Nerissa Cumpio</span></blockquote>
 
 “It’s impossible to start here. No job, no relief,” she said. “We have to go back, because we will die here.”
 
