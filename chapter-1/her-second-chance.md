@@ -68,7 +68,7 @@ Even as they were leaving, the conditions were still horrible in their hometown 
 
 Her family wasn’t in Manila long before Cumpio and her husband decided to go back. They felt like Tanauan was their place, and they needed to try and recover their home, she said. 
 
-While waiting in line for a tent from the United Nations Refugee Agency weeks after the storm, they learned that there were 287 people without homes, but only 80 tents. There were rumors of a raffle, but eventually a decision was made to hand out tents only to those who lived very near the coast and had no shelter at all.
+While waiting in line for a tent from the United Nations refugee agency weeks after the storm, they learned that there were 287 people without homes, but only 80 tents. There were rumors of a raffle, but eventually a decision was made to hand out tents only to those who lived very near the coast and had no shelter at all.
 
 The Cumpios, with just their floor, qualified for a tent. 
 
