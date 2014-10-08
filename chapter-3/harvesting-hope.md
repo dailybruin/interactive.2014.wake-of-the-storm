@@ -8,6 +8,7 @@ cover: story/harvesting-hope-1.jpg
 cover_caption: "Elmer Sayre, the in-house advisor for the  Water, Agroforestry, Nutrition and Development Foundation, explains one of his strategies for Typhoon Yolanda recovery: teaching survivors to grow their own food."
 story_location: Leyte, Philippines
 story_location_map: inset-map-leyte.jpg
+editors-note: true
 image:
     - url: story/harvesting-hope-2.jpg
       caption: In her community garden, Lea Encina talks about the fruits and vegetables the bunkhouse residents have planted, harvested, eaten and sold in the past three months. 

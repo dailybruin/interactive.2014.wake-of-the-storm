@@ -1,2 +1,2 @@
 RedirectMatch ^/current-location((/index.html)|/)?$ /map
-RedirectMatch ^/?$ /chapter-2/fading-funds-and-continued-efforts/
+RedirectMatch ^/?$ /chapter-3/harvesting-hope/
