@@ -226,7 +226,7 @@ figcaption {
 #sidebar {
   width: 100%;
   background-color: rgba(255,255,255, 0.95);
-  z-index: 1;
+  z-index: 2;
   position: relative;
   #sidebar-logo {
     color: black;
@@ -544,17 +544,26 @@ figcaption {
     text-align: left;
   }
 }
+#grave-title-container {
+  position: absolute;
+  z-index: 3;
+  right: 50px;
+  bottom: 100px;
+  padding-left: 250px;
+}
 .grave-title {
+  float: right;
   display: block;
   text-align: center;
   font-family: Georgia, serif;
-  font-size: 2.7em;
   line-height: 122%;
-  margin-top: 17px;
   font-style: italic;
   color: #333;
+  font-size: 3.5em;
 }
 .grave-subtitle {
+  float: right;
+  margin-top: 10px;
   display: block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   width: 80%;
@@ -564,7 +573,12 @@ figcaption {
   font-size: 1rem;
   font-weight: 200;
   line-height: 140%;
-  margin-top: 10px;
+  text-align: right;
+  color: #bbb;
+  letter-spacing: 0.1px;
+}
+#grave-controls {
+  margin-bottom: 20px;
 }
 #grave-info {
   font-size: 1.3em;
@@ -597,5 +611,49 @@ figcaption {
     display: block;
     font-size: 1rem;
     font-weight: bold;
+  }
+}
+
+.grave-cover {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 620px;
+  background-color: black;
+  overflow: hidden;
+  .grave-title {
+    color: white;
+  }
+  & + * {
+    margin-top: 660px;
+  }
+}
+#grave-cover-fade {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.2);
+  position: absolute;
+  z-index: 1;
+  background: -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.6) 0%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(0,0,0,0.6)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
+  background: -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.6) 0%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.6) 0%,rgba(0,0,0,1) 100%); /* Opera 12+ */
+  background: -ms-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.6) 0%,rgba(0,0,0,1) 100%); /* IE10+ */
+  background: radial-gradient(ellipse at center,  rgba(0,0,0,0.6) 0%,rgba(0,0,0,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+#grave-cover-back {
+  height: 100%;
+  width: 100%;
+  width: calc(100% + 150px);
+  position: absolute;
+  top: 0px;
+  .grave-image {
+    height: 150px;
+    width: 150px;
+    float:left;
+    background-size: cover;
+    background-position: center center;
   }
 }
