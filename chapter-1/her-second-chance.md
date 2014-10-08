@@ -109,5 +109,3 @@ Each room was painted a pastel yellow, green or purple. A tall wooden cabinet in
 “During the disaster, you can see the goodness of other people, even if they have different cultures and different beliefs,” Cumpio said.
 
 The new clinic serves any woman who comes to deliver her baby. In the spirit of paying it forward, all of Cumpio’s services are free. ■
-
-***Correction:** Cumpio was paid for her work with Mercy in Action through a cash-for-work program.*
