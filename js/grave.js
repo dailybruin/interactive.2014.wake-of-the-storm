@@ -16,7 +16,7 @@ function getIndividual(record) {
     var el = $("<div class='grave-record-inner'>");
     el.appendTo(cont);
     if(record.image != undefined && record.image != "") {
-        cont.prepend("<a href='{{site.url}}/assets/images/grave/"+record.image+".jpg'><img src='{{ site.url }}/assets/images/grave/"+record.image+".jpg'></a>");
+        cont.prepend("<a href='{{site.url}}/assets/images/grave/"+record.image+".jpg'><img src='{{ site.url }}/assets/images/grave/thumbs/"+record.image+".jpg'></a>");
     }
     else {
         cont.prepend("<img src='{{ site.url }}/assets/images/grave/unmarked.jpg'>");
