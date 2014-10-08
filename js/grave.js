@@ -11,6 +11,19 @@ var TYPHOON_DATE_FORMATTED = moment("November 8, 2013").format("MMM. D, YYYY");
 
 var ORIGINAL_DATA = undefined;
 
+/* Thanks http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array */
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex ;
+  while (0 !== currentIndex) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+  return array;
+}
+
 function getIndividual(record) {
     var cont = $("<div class='large-3 small-12 columns grave-record'>");
     var el = $("<div class='grave-record-inner'>");
@@ -107,6 +120,7 @@ function draw(data) {
         data = ORIGINAL_DATA
     }
     var el = $("#grave")
+    data = shuffle(data);
     for(var i = 0; i < data.length; i++) {
         var record = data[i];
         el.append(getIndividual(record));
