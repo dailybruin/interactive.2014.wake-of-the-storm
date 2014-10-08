@@ -18,7 +18,7 @@ image:
       caption: Nerissa Cumpio points out her newly built facility to guests at the clinic’s grand opening on Sept. 16. The birth clinic provides midwifery services and preventative care for free.
 ---
 
-<div class="correction"><strong>Correction:</strong> The original version of this article contained an error and has been changed. See the bottom of the article for more information.</div>
+<div class="correction"><strong>Correction:</strong> The original article stated that Nerissa Cumpio did volunteer work for Mercy in Action. Rather, Cumpio was paid for her work with Mercy in Action through a cash-for-work program.</div>
 
 TANAUAN, Philippines — Only the floor of the clinic was left, surrounded by wet piles of rubble left after several 16-foot waves devastated the coastal town. 
 
