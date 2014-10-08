@@ -15,8 +15,11 @@ function getIndividual(record) {
     var cont = $("<div class='large-3 small-12 columns grave-record'>");
     var el = $("<div class='grave-record-inner'>");
     el.appendTo(cont);
-    if(record.image != undefined) {
+    if(record.image != undefined && record.image != "") {
         cont.prepend("<a href='{{site.url}}/assets/images/grave/"+record.image+".jpg'><img src='{{ site.url }}/assets/images/grave/"+record.image+".jpg'></a>");
+    }
+    else {
+        cont.prepend("<img src='{{ site.url }}/assets/images/grave/unmarked.jpg'>");
     }
     el.append("<span class='name'>"+record.name+"</span>");
     if(record.dob != undefined && record.dob != "") {
