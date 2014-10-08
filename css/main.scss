@@ -226,7 +226,7 @@ figcaption {
 #sidebar {
   width: 100%;
   background-color: rgba(255,255,255, 0.95);
-  z-index: 2;
+  z-index: 10;
   position: relative;
   #sidebar-logo {
     color: black;
@@ -549,17 +549,16 @@ figcaption {
   z-index: 3;
   right: 50px;
   bottom: 100px;
-  padding-left: 250px;
 }
 .grave-title {
   float: right;
+  text-align: right;
   display: block;
-  text-align: center;
   font-family: Georgia, serif;
   line-height: 122%;
   font-style: italic;
   color: #333;
-  font-size: 3.5em;
+  font-size: 2em;
 }
 .grave-subtitle {
   float: right;
@@ -626,8 +625,11 @@ figcaption {
     color: white;
   }
   & + * {
-    margin-top: 660px;
+    margin-top: 540px;
   }
+}
+#grave-age-label {
+  clear: both;
 }
 #grave-cover-fade {
   height: 100%;

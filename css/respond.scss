@@ -48,6 +48,18 @@
   .grave-record {
     height: 300px;
   }
+  .grave-cover + *{
+    margin-top: 660px;
+  }
+  #grave-age-label {
+    clear: none;
+  }
+  .grave-title {
+    font-size: 3.5em;
+  }
+  #grave-title-container {
+    padding-left: 250px;
+  }
   .infobox {
     width: 50%;
     margin-right: -16.6667%;
