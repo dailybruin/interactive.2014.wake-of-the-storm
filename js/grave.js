@@ -162,7 +162,11 @@ function setFilters() {
             visibleCount += 1;
         }
     });
-    $("#grave-info > .number").text(visibleCount);
+    if(visibleCount == 1) {
+        $("#grave-info").text(visibleCount + " person");
+    } else {
+        $("#grave-info").text(visibleCount + " people");
+    }
 }
 
 function draw(data) {
