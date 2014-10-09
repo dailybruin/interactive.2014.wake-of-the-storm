@@ -5,7 +5,7 @@
 
 **Photojournalist:** Neil Bedi
 
-**Data jouranlist:** Byron Lutz
+**Data journalist:** Byron Lutz
 
 ***
 
