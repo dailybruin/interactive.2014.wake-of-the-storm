@@ -1,2 +1,3 @@
 RedirectMatch ^/current-location((/index.html)|/)?$ /map
 RedirectMatch ^/?$ /chapter-3/harvesting-hope/
+ErrorDocument 404 /404/
