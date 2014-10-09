@@ -6,7 +6,12 @@
 
 /* Define mobile styles */
 
-@media only screen and (max-width: 40em) {}
+@media only screen and (max-width: 40em) {
+  .story #cover {
+    background-position-y: 88px;
+    background-size: contain;
+  }
+}
 
 /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
@@ -35,6 +40,9 @@
 
 /* Large screens */
 @media only screen and (min-width: 64.063em) {
+  .footer {
+    padding: 10px 50px 30px 10px;
+  }
   .correction {
     margin-left: -26.6667%;
     width: 24.667%;
@@ -66,6 +74,7 @@
   }
   #grave-title-container {
     padding-left: 250px;
+    right: 50px;
   }
   .infobox {
     width: 50%;
@@ -98,6 +107,11 @@
   blockquote {
     padding-left: 44px;
     margin-left: -16.6667%;
+    .blockquote-attribution {
+      top: 12px;
+      display: inline;
+      clear: none;
+    }
   }
   .entry {
     figure {

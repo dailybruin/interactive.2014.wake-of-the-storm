@@ -10,6 +10,7 @@ p {
 }
 
 .correction { 
+  width: 100%;
   padding: 10px 10px 20px 10px;
   font-size: 0.9em;
   line-height: 128%;
@@ -25,10 +26,12 @@ blockquote {
   margin-bottom: 50px;
   padding-left: 42px;
   .blockquote-attribution {
+    display: block;
+    clear: both;
+    top: 0;
     float: right;
     font-size: 0.9em;
     position: relative;
-    top: 12px;
     left: -27px;
   }
   &:before, &:after {
@@ -169,6 +172,7 @@ figcaption {
     margin: 0;
     padding: 0; 
     margin-left: 1rem;
+    max-width: 50%;
     figcaption {
       font-weight: bold;
       text-align: center;
@@ -245,7 +249,7 @@ iframe.box-embed {
 #sidebar {
   width: 100%;
   background-color: rgba(255,255,255, 0.95);
-  z-index: 10;
+  z-index: 1001; /* need to get on top of leaflet */
   position: relative;
   #sidebar-logo {
     color: black;
@@ -368,7 +372,7 @@ iframe.box-embed {
 .footer {
   font-family: Georgia, serif;
   text-align: center;
-  padding: 10px 50px 30px 10px;
+  padding: 10px 50px;
   font-size: 0.8rem;
   opacity: 0.7;
   line-height: 1rem;
@@ -527,6 +531,7 @@ iframe.box-embed {
   #cover {
     background: center no-repeat;
     background-size: cover;
+    background-color: black;
     height: $cover_height;
     position: absolute;
     left: 0;
@@ -566,7 +571,7 @@ iframe.box-embed {
 #grave-title-container {
   position: absolute;
   z-index: 3;
-  right: 50px;
+  right: 10px;
   bottom: 100px;
 }
 .grave-title {
