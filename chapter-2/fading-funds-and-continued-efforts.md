@@ -89,6 +89,14 @@ Many also lost their livelihoods in the storm. Businesses were crushed and entir
 
 Even though her husband has some work, Lacaba’s family is having trouble making ends meet after losing everything to Typhoon Yolanda. 
 
+<div class="infobox">
+<h3>How storm surges are created</h3>
+<p>A storm surge is created when a storm's wind creates vertical circulation in the ocean's water. When the storm gets close to land, the shallow sea floor pushes the water up and can create a large, tsunami-like wave.</p>
+<p>The storm surge height in Tacloban during Typhoon Yolanda was estimated to have been around 10 to 20 feet.</p>
+<p>Since so many factors – tides, wind angle, pressure and more – affect the flood's height, surges are difficult to predict and are not taken into account when determining a storm's classification.</p>
+<span class="source">SOURCE: National Oceanic and Atmospheric Administration. Reporting by Byron Lutz, Bruin senior staff.</span>
+</div>
+
 Before the storm, she was a credit analyst and was also qualified to be a teacher, but now she said there are no jobs for her to take. 
 
 Her husband’s job at the bus station pays far less than it used to. Instead of a regular paycheck, Joel Lacaba’s pay depends on the number of bus passengers. Because so many lost everything in the storm, fewer people have the means to use the transit system. 
