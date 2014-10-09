@@ -3,7 +3,7 @@ description: "Bridget O'Brien Scholarship 2014"
 
 permalink: pretty
 
-exclude: [README.md]
+exclude: [README.md, LICENSE]
 include: [.htaccess]
 
 # Development settings. Override these in _config_production.yml
