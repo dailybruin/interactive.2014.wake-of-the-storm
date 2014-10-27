@@ -2,12 +2,17 @@
 title: About the project
 slug: about
 layout: narrow
+image:
+    - url: bridget-obrien.jpg
+      caption: Photo courtesy of Kristy Milliken.
 ---
 # {{ page.title }}
 
 Every year, the [Bridget O’Brien Scholarship Foundation](http://www.rememberingbridget.com/) gives a group of Daily Bruin staffers the opportunity to go on a fully-funded reporting trip to produce a package for the student newspaper. 
 
 The scholarship issued its first award in 2008, the year after Bridget O’Brien passed away in a car accident. 
+
+{% figure_img vertical small-vertical 0 caption %}
 
 Bridget was a Daily Bruin alumnus and an ambitious, passionate journalist who took her reporting and photography around the globe. 
 

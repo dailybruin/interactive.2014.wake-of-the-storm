@@ -126,6 +126,10 @@
           width: 70%;
           float: right;
           margin-left: 10px;
+          &.small-vertical {
+              width: auto;
+              float: right;
+          }
           &.left {
             float: left;
             margin-right: 10px;
